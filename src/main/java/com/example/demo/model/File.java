@@ -1,37 +1,24 @@
 package com.example.demo.model;
 
-public class File {
-    private Integer id;
+import lombok.Data;
+
+import java.sql.Blob;
+
+
+public @Data class File {
+    private Integer fileId;
     private String fileName;
-    private String owner;
+    private Integer owner;
+    private String contentType;
+    private String fileSize ;
+    private Blob fileData ;
 
-    public File(Integer id, String fileName, String owner) {
-        this.id = id;
+    public File(Integer fileId, String fileName,  String contentType, String fileSize,Integer owner, Blob fileData) {
+        this.fileId = fileId;
         this.fileName = fileName;
         this.owner = owner;
-    }
-
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
-    public String getOwner() {
-        return owner;
-    }
-
-    public void setOwner(String owner) {
-        this.owner = owner;
-    }
-
-    public String getFileName() {
-        return fileName;
-    }
-
-    public void setFileName(String fileName) {
-        this.fileName = fileName;
+        this.contentType = contentType;
+        this.fileSize = fileSize;
+        this.fileData = fileData;
     }
 }
