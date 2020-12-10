@@ -11,9 +11,10 @@ public @Data class File {
     private Integer owner;
     private String contentType;
     private String fileSize ;
-    private Blob fileData ;
 
-    public File(Integer fileId, String fileName,  String contentType, String fileSize,Integer owner, Blob fileData) {
+    private byte[] fileData ;
+
+    public File(Integer fileId, String fileName,  String contentType, String fileSize,Integer owner, byte[] fileData) {
         this.fileId = fileId;
         this.fileName = fileName;
         this.owner = owner;

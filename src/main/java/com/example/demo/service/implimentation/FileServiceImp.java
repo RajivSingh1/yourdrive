@@ -51,7 +51,7 @@ public class FileServiceImp implements FileService {
         try {
             Path targetLocation = this.fileLocation.resolve(fileName);
             Files.copy(file.getInputStream(), targetLocation, StandardCopyOption.REPLACE_EXISTING);
-            fileMapper.insertFileUrl(new File(null,fileName,"","",owner.getUserId(),null));
+            fileMapper.insertFileUrl(new File(null,fileName,file.getContentType(),""+file.getSize(),owner.getUserId(),file.getBytes()));
         }catch (IOException ex){
             throw new FileStorageException(String.format(AppConstant.FILE_STORAGE_EXCEPTION, fileName), ex);
         }
@@ -82,5 +82,11 @@ public class FileServiceImp implements FileService {
     @Override
     public List<File> getAllFiles(){
         return fileMapper.getAllFiles();
+    }
+
+    @Override
+    public Integer deleteFile(int id) {
+
+        return fileMapper.deleteFile(id);
     }
 }

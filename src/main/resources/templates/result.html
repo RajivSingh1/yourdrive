@@ -10,18 +10,22 @@
     </head>
     <body class="p-3 mb-2 bg-light text-black">
         <div class="container justify-content-center w-50 p-3" style="margin-top: 5em;">
-            <div class="alert alert-success fill-parent">
+            <span> << Click <a th:href="@{/home}">here</a> to go back.</span>
+            <div th:if ="${successMessage}" class="alert alert-success fill-parent">
                 <h1 class="display-5">Success</h1>
-                <span>Your changes were successfully saved. Click <a>here</a> to continue.</span>
+                <span th:text="${successMessage}">Your changes were successfully saved. Click <a>here</a> to continue.</span>
             </div>
-            <div class="alert alert-danger fill-parent">
+            <div th:if="${errorMessage}" class="alert alert-danger fill-parent">
                 <h1 class="display-5">Error</h1>
-                <span>Your changes were not saved. Click <a>here</a> to continue.</span>
+                <span th:text="${errorMessage}">Your changes were not saved. Click <a>here</a> to continue.</span>
             </div>
-            <div class="alert alert-danger fill-parent">
-                <h1 class="display-5">Error</h1>
-                <span>Example Error Message</span>
-                <span>Click <a>here</a> to continue.</span>
+
+            <div th:if="${file}">
+                <h1 class="display-5" >File details</h1>
+                <p>File name: <span th:text="${file.getFileName}">Example Error Message</span></p>
+                <p>File type: <span th:text="${file.getContentType}">Type not available</span></p>
+                <p>File size: <span th:text="${file.getFileSize}">Size not available</span></p>
+
             </div>
         </div>
     </body>

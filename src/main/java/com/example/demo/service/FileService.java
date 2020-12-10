@@ -20,4 +20,6 @@ public interface FileService {
     public File findFile(String filename);
 
     public List<File> getAllFiles();
+
+    Object deleteFile(int id);
 }

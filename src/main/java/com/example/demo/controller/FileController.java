@@ -2,6 +2,7 @@ package com.example.demo.controller;
 
 
 import com.example.demo.exception.FileStorageException;
+import com.example.demo.model.File;
 import com.example.demo.model.User;
 import com.example.demo.service.FileService;
 import com.example.demo.service.UserService;
@@ -16,9 +17,7 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
@@ -61,5 +60,19 @@ public class FileController {
         model.addAttribute("errorMessage","The were an error during saving the file. Please try again");
         return "redirect:/home";
 
+    }
+    @GetMapping("/{name}")
+    public String getFile(@PathVariable String name, Model model){
+
+        model.addAttribute("file",fileService.findFile(name));
+        logger.info("The finded file is: "+fileService.findFile(name));
+        return "result";
+    }
+
+
+    @GetMapping("/delete/{id}")
+    public String deleteFile(@PathVariable int id, Model model){
+        model.addAttribute("successMessage",fileService.deleteFile(id));
+        return "result";
     }
 }

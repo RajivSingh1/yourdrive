@@ -1,10 +1,7 @@
 package com.example.demo.mapper;
 
 import com.example.demo.model.File;
-import org.apache.ibatis.annotations.Insert;
-import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Options;
-import org.apache.ibatis.annotations.Select;
+import org.apache.ibatis.annotations.*;
 
 import java.util.List;
 
@@ -20,4 +17,7 @@ public interface FileMapper {
 
     @Select("SELECT * FROM files")
     List<File> getAllFiles();
+
+    @Delete("DELETE FROM files WHERE fileId = #{fileId}")
+    Integer deleteFile(int id);
 }
