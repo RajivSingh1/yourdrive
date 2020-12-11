@@ -15,6 +15,14 @@
                     <button type="submit" class="btn btn-secondary float-right">Logout</button>
                 </form>
             </div>
+
+            <div th:if="${errorMessage}" class="alert alert-danger ">
+
+                <span th:text="${errorMessage}">Exist</span>
+            </div>
+            <div th:if="${successMessage}" class="alert alert-success ">
+                <span th:text="${successMessage}">File added.</span>
+            </div>
             <div id="contentDiv" style="clear: right;">
                 <nav style="clear: right;">
                     <div class="nav nav-tabs" id="nav-tab" role="tablist">
@@ -27,12 +35,7 @@
                     <div class="tab-pane fade show active" id="nav-files" role="tabpanel" aria-labelledby="nav-files-tab">
                         <form th:action="@{/file}" action="#" enctype="multipart/form-data" method="POST">
 
-                            <div th:if="${errorMessage}" class="alert alert-danger">
-                                <span th:text="${errorMessage}">Invalid username or password</span>
-                            </div>
-                            <div th:if="${successMessage}" class="alert alert-success">
-                                <span th:text="${successMessage}">File added.</span>
-                            </div>
+
                             <div class="container">
                                 <div class="row" style="margin: 1em;">
                                     <div class="col-sm-2">

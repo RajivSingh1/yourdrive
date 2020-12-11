@@ -25,6 +25,7 @@
                 <p>File name: <span th:text="${file.getFileName}">Example Error Message</span></p>
                 <p>File type: <span th:text="${file.getContentType}">Type not available</span></p>
                 <p>File size: <span th:text="${file.getFileSize}">Size not available</span></p>
+                <p><a th:href="@{|/file/download/${file.getFileName}|}">Download</a></p>
 
             </div>
         </div>

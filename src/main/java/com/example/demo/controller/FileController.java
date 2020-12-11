@@ -11,14 +11,18 @@ import com.example.demo.utils.AppConstant;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.io.Resource;
+import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
+import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import java.io.IOException;
@@ -36,28 +40,33 @@ public class FileController {
 
     @PostMapping
     public String addFile(@RequestParam(value = AppConstant.FILE_PARAM)MultipartFile file,
-                                     Model model) throws IOException {
+                                RedirectAttributes redirectAttributes) throws IOException {
 
 
+        logger.info("The size of the file is: ++++++++++++++++++",file.getSize());
+        logger.info("Content type file is: ++++++++++++++++++",file.getContentType());
+
+        logger.info("Content type file is: ++++++++++++++++++",file.getBytes());
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         String currentPrincipalName = authentication.getName();
 
         User user = userService.getUser(currentPrincipalName);
        ;
             if(!file.isEmpty() &&  user != null){
-//            if(!fileService.findFile(fileName).getFileName().isEmpty()){
-//                throw new FileStorageException(AppConstant.FILE_EXIST);
-//            }
+            if(fileService.findFile(file.getOriginalFilename()) != null){
+                redirectAttributes.addFlashAttribute("errorMessage","The file exist. Please try check the name");
+                return "redirect:/home";
+            }
 
                 String savedFile=fileService.storeFile(file,user);
                 logger.info("Saved filename: "+savedFile);
-                model.addAttribute("successMessage","The file"+savedFile+" saved successful.");
-                return "redirect:/home";
+                redirectAttributes.addFlashAttribute("successMessage","The file"+savedFile+" saved successful.");
+                return "redirect:/home" ;
 
 
 
         }
-        model.addAttribute("errorMessage","The were an error during saving the file. Please try again");
+        redirectAttributes.addFlashAttribute("errorMessage","The were an error during saving the file. Please try again");
         return "redirect:/home";
 
     }
@@ -74,5 +83,13 @@ public class FileController {
     public String deleteFile(@PathVariable int id, Model model){
         model.addAttribute("successMessage",fileService.deleteFile(id));
         return "result";
+    }
+
+    @GetMapping("/download/{name}")
+    public ResponseEntity<Resource> downloadFile(@PathVariable String name){
+        Resource file =fileService.loadFile(name);
+        return ResponseEntity.ok()
+            .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + file.getFilename() + "\"")
+            .body(file);
     }
 }
