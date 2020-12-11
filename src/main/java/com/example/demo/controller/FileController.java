@@ -43,10 +43,7 @@ public class FileController {
                                 RedirectAttributes redirectAttributes) throws IOException {
 
 
-        logger.info("The size of the file is: ++++++++++++++++++",file.getSize());
-        logger.info("Content type file is: ++++++++++++++++++",file.getContentType());
 
-        logger.info("Content type file is: ++++++++++++++++++",file.getBytes());
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         String currentPrincipalName = authentication.getName();
 

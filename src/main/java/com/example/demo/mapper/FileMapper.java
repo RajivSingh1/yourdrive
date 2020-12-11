@@ -11,7 +11,7 @@ public interface FileMapper {
     @Select("SELECT * FROM files WHERE filename = #{fileName}")
     File getFile(String fileName);
 
-    @Insert("INSERT INTO files ( filename,userid) VALUES(#{fileName}, #{owner})")
+    @Insert("INSERT INTO files ( filename,userid,contenttype,filesize,filedata) VALUES(#{fileName}, #{owner},#{contentType},#{fileSize},#{fileData})")
     @Options(useGeneratedKeys = true, keyProperty = "fileId")
     int insertFileUrl(File file);
 

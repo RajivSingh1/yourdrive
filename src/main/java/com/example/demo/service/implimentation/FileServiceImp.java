@@ -48,6 +48,10 @@ public class FileServiceImp implements FileService {
     @Override
     public String storeFile(MultipartFile file, User owner) throws IOException {
         String fileName = StringUtils.cleanPath(file.getOriginalFilename());
+        logger.info("The size of the file is: ++++++++++++++++++",file.getSize());
+        logger.info("Content type file is: ++++++++++++++++++",file.getContentType());
+        logger.info("Name is: ++++++++++++++++++",fileName);
+        logger.info("Content : ++++++++++++++++++",file.getBytes());
         try {
             Path targetLocation = this.fileLocation.resolve(fileName);
             Files.copy(file.getInputStream(), targetLocation, StandardCopyOption.REPLACE_EXISTING);
