@@ -71,7 +71,6 @@ public class FileController {
     public String getFile(@PathVariable String name, Model model){
 
         model.addAttribute("file",fileService.findFile(name));
-        logger.info("The finded file is: "+fileService.findFile(name));
         return "result";
     }
 

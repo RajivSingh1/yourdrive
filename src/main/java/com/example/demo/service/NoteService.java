@@ -6,9 +6,9 @@ import java.util.List;
 
 public interface NoteService {
 
-    public Notes addNote(Notes note);
+    public int addNote(Notes note);
     public void deleteNote(int id);
     public void updateNote(Notes note);
-    public List<Notes> allNotes();
+    public List<Notes> getAllNotes();
     public Notes findNote(int id);
 }
