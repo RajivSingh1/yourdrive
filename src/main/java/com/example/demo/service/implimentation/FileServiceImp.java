@@ -84,8 +84,8 @@ public class FileServiceImp implements FileService {
     }
 
     @Override
-    public List<File> getAllFiles(){
-        return fileMapper.getAllFiles();
+    public List<File> getAllFiles(int userId){
+        return fileMapper.getAllFiles(userId);
     }
 
     @Override

@@ -26,17 +26,18 @@ public class NoteServiceImpl implements NoteService {
 
     @Override
     public void deleteNote(int id) {
-
+        noteMapper.deleteNote(id);
     }
 
     @Override
     public void updateNote(Notes note) {
+         noteMapper.updateNote(note);
 
     }
 
     @Override
-    public List<Notes> getAllNotes() {
-        return noteMapper.getAllNotes();
+    public List<Notes> getAllNotes(int UserId) {
+        return noteMapper.getAllNotes(UserId);
     }
 
     @Override

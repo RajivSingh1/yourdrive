@@ -51,7 +51,7 @@ public class FileController {
        ;
             if(!file.isEmpty() &&  user != null){
             if(fileService.findFile(file.getOriginalFilename()) != null){
-                redirectAttributes.addFlashAttribute("errorMessage","The file exist. Please try check the name");
+                redirectAttributes.addFlashAttribute("errorMessage","The file exist. Please check the name");
                 return "redirect:/home";
             }
 
@@ -59,9 +59,6 @@ public class FileController {
                 logger.info("Saved filename: "+savedFile);
                 redirectAttributes.addFlashAttribute("successMessage","The file"+savedFile+" saved successful.");
                 return "redirect:/home" ;
-
-
-
         }
         redirectAttributes.addFlashAttribute("errorMessage","The were an error during saving the file. Please try again");
         return "redirect:/home";

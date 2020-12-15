@@ -1,5 +1,6 @@
 package com.example.demo.mapper;
 
+import com.example.demo.model.Credential;
 import com.example.demo.model.Notes;
 import org.apache.ibatis.annotations.*;
 
@@ -14,8 +15,11 @@ public interface NoteMapper {
     @Options(useGeneratedKeys = true, keyProperty = "noteId")
     int insertNote(Notes note);
 
-    @Select("SELECT * FROM notes")
-    List<Notes> getAllNotes();
+    @Select("SELECT * FROM notes WHERE userid = #{userId}")
+    List<Notes> getAllNotes(int userId);
+
+    @Update("UPDATE notes SET notetitle = #{noteTitle}, notedescription = #{noteDescription} WHERE noteid = #{noteId}")
+    void updateNote(Notes note);
 
     @Delete("DELETE FROM notes WHERE noteid = #{noteId}")
     Integer deleteNote(int noteId);

@@ -19,7 +19,7 @@ public interface FileService {
 
     public File findFile(String filename);
 
-    public List<File> getAllFiles();
+    public List<File> getAllFiles(int userId);
 
     Object deleteFile(int id);
 }

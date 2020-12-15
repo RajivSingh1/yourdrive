@@ -88,8 +88,8 @@
                                 <tbody th:if="${noteslist}">
                                     <tr th:each="note : ${noteslist} ">
                                         <td>
-                                            <button type="button" class="btn btn-success">Edit</button>
-                                            <a class="btn btn-danger">Delete</a>
+                                            <button type="button" th:onclick="javascript:showNoteModal([[${note}]])" class="btn btn-success">Edit</button>
+                                            <a th:href="@{'/notes/delete/' + ${note.noteId}}"class="btn btn-danger">Delete</a>
                                         </td>
                                         <th scope="row" th:text="${note.getNoteTitle}">Example Note Title</th>
                                         <td th:text="${note.getNoteDescription}">Example Note Description </td>
@@ -123,7 +123,7 @@
                                     </div>
                                     <div class="modal-footer">
                                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                        <button type="button" class="btn btn-primary" onclick="$('#noteSubmit').click();">Save changes</button>
+                                        <button type="button" class="btn btn-primary" onclick="$('#noteSubmit').click();">Save</button>
                                     </div>
                                 </div>
                             </div>
@@ -144,15 +144,15 @@
                                         <th style="width: 25%" scope="col">Password</th>
                                     </tr>
                                 </thead>
-                                <tbody>
-                                <tr>
+                                <tbody th:if="${credentialslist}">
+                                <tr th:each="credential : ${credentialslist}">
                                     <td>
-                                        <button type="button" class="btn btn-success">Edit</button>
-                                        <a class="btn btn-danger">Delete</a>
+                                        <button type="button" th:onclick="javascript:showCredentialModal([[${credential}]],[[${encryptionService.decryptValue(credential.password,credential.key)}]])"class="btn btn-success" >Edit</button>
+                                        <a th:href="@{'/credential/delete/' + ${credential.credentialId}}" class="btn btn-danger">Delete</a>
                                     </td>
-                                    <th scope="row">Example Credential URL</th>
-                                    <td>Example Credential Username</td>
-                                    <td>Example Credential Password</td>
+                                    <th th:text="${credential.url}" scope="row">Example Credential URL</th>
+                                    <td th:text="${credential.username}" >Example Credential Username</td>
+                                    <td th:text="${credential.password}" >Example Credential Password</td>
                                 </tr>
                                 </tbody>
                             </table>
@@ -168,7 +168,7 @@
                                         </button>
                                     </div>
                                     <div class="modal-body">
-                                        <form action="#" method="POST">
+                                        <form th:object="${credential}" action="#" th:action="@{/credential}" method="POST">
                                             <input type="hidden" name="credentialId" id="credential-id">
                                             <div class="form-group">
                                                 <label for="note-title" class="col-form-label">URL</label>
@@ -176,11 +176,11 @@
                                             </div>
                                             <div class="form-group">
                                                 <label for="note-title" class="col-form-label">Username</label>
-                                                <input type="text" name= "username" class="form-control" id="credential-username" maxlength="30" required>
+                                                <input   type="text" name= "username" class="form-control" id="credential-username" maxlength="30" required>
                                             </div>
                                             <div class="form-group">
                                                 <label for="note-title" class="col-form-label">Password</label>
-                                                <input type="text" name= "password" class="form-control" id="credential-password" maxlength="30" required>
+                                                <input  type="text" name= "password" class="form-control" id="credential-password" maxlength="30" required>
                                             </div>
                                             <button id="credentialSubmit" type="submit" class="d-none"></button>
                                         </form>
@@ -204,19 +204,19 @@
         <!--For opening the note modal-->
         <script type="text/javascript">
             // For opening the note modal
-            function showNoteModal(noteId, noteTitle, noteDescription) {
-                $('#note-id').val(noteId ? noteId : '');
-                $('#note-title').val(noteTitle ? noteTitle : '');
-                $('#note-description').val(noteDescription ? noteDescription : '');
-                $('#noteModal').modal('show');
+            function showNoteModal(note) {
+                    $('#note-id').val(note && note.noteId ? note.noteId : 0);
+                    $('#note-title').val(note && note.noteTitle ? note.noteTitle : '');
+                    $('#note-description').val(note && note.noteDescription ? note.noteDescription : '');
+                    $('#noteModal').modal('show');
             }
 
             // For opening the credentials modal
-            function showCredentialModal(credentialId, url, username, password) {
-                $('#credential-id').val(credentialId ? credentialId : '');
-                $('#credential-url').val(url ? url : '');
-                $('#credential-username').val(username ? username : '');
-                $('#credential-password').val(password ? password : '');
+            function showCredentialModal(credential, decryptedPassword) {
+                $('#credential-id').val(credential && credential.credentialId ? credential.credentialId : 0);
+                $('#credential-url').val(credential && credential.url ? credential.url : '');
+                $('#credential-username').val(credential && credential.username ? credential.username : '');
+                $('#credential-password').val(credential && credential.decryptedPassword ? credential.decryptedPassword : decryptedPassword);
                 $('#credentialModal').modal('show');
             }
         </script>
