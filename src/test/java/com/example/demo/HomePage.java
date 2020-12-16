@@ -23,8 +23,8 @@ private WebElement logoutButton;
     @FindBy(name = "addNote")
     private WebElement addNewNoteBtn;
 
-    @FindBy(id = "btnAddNewCredential")
-    private WebElement btnAddNewCredential;
+    @FindBy(id = "addCredentialBtn")
+    private WebElement addCredentialBtn;
 
     @FindBy(id = "note-title")
     private WebElement txtNoteTitle;
@@ -50,7 +50,7 @@ private WebElement logoutButton;
     @FindBy(id = "noteEditBtn")
     private WebElement noteEditBtn;
 
-    @FindBy(id = "btnEditCredential")
+    @FindBy(id = "editCredential")
     private WebElement btnEditCredential;
 
     @FindBy(id = "note-description")
@@ -59,7 +59,7 @@ private WebElement logoutButton;
     @FindBy(name = "noteDelBtn")
     private WebElement deleteNoteBtn;
 
-    @FindBy(id = "aDeleteCredential")
+    @FindBy(id = "deleteCredential")
     private WebElement aDeleteCredential;
 
     @FindBy(id = "credential-url")
@@ -71,7 +71,7 @@ private WebElement logoutButton;
     @FindBy(id = "credential-password")
     private WebElement txtCredentialPassword;
 
-    @FindBy(id = "btnCredentialSaveChanges")
+    @FindBy(id = "saveCredential")
     private WebElement btnCredentialSaveChanges;
 
     @FindBy(id = "tblCredentialUrl")
@@ -122,7 +122,7 @@ private WebElement logoutButton;
     }
 
     public void addNewCredential() {
-        js.executeScript("arguments[0].click();", btnAddNewCredential);
+        js.executeScript("arguments[0].click();", addCredentialBtn);
     }
 
     public void setNoteTitle(String noteTitle) {
