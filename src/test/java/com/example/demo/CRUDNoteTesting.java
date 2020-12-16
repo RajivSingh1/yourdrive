@@ -1,16 +1,7 @@
 package com.example.demo;
 
 import com.example.demo.model.Notes;
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.*;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
-import org.springframework.boot.web.server.LocalServerPort;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -52,6 +43,23 @@ public class CRUDNoteTesting extends ApplicationTests{
         Notes note = homePage.getFirstNote();
         Assertions.assertEquals(modifiedNoteTitle, note.getNoteTitle());
         Assertions.assertEquals(modifiedNoteDescription, note.getNoteDescription());
+    }
+    @Test
+    public void deleteNoteTest() throws InterruptedException {
+        String noteTitle = "My Note";
+        String noteDescription = "This is my note.";
+        HomePage homePage = getHomePage();
+        createNote(noteTitle, noteDescription, homePage);
+        homePage.openNotesTab();
+        homePage = new HomePage(driver);
+        Thread.sleep(2000);
+        Assertions.assertFalse(homePage.noNotes(driver));
+
+        Thread.sleep(2000);
+        deleteNote(homePage);
+
+        Thread.sleep(2000);
+        Assertions.assertTrue(homePage.noNotes(driver));
     }
 
     private void createNote(String noteTitle, String noteDescription, HomePage homePage) {

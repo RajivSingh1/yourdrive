@@ -172,7 +172,7 @@ private WebElement logoutButton;
     }
 
     public boolean noNotes(WebDriver driver) {
-        return !isElementPresent(By.id("tableNoteTitle"), driver) && !isElementPresent(By.id("tableNoteDescription"), driver);
+        return !isElementPresent(By.name("noteTableTitle"), driver) && !isElementPresent(By.name("noteTableDesc"), driver);
     }
 
     public boolean noCredentials(WebDriver driver) {
