@@ -1,0 +1,587 @@
+﻿ID,Type,SKU,Name,Published,"Is featured?","Visibility in catalog","Short description",Description,"Date sale price starts","Date sale price ends","Tax status","Tax class","In stock?",Stock,"Low stock amount","Backorders allowed?","Sold individually?","Weight (kg)","Length (cm)","Width (cm)","Height (cm)","Allow customer reviews?","Purchase note","Sale price","Regular price",Categories,Tags,"Shipping class",Images,"Download limit","Download expiry days",Parent,"Grouped products",Upsells,Cross-sells,"External URL","Button text",Position,"Attribute 1 name","Attribute 1 value(s)","Attribute 1 visible","Attribute 1 global"
+2423,simple,6958265102202,A3,1,0,visible,,,,,taxable,,1,1,1,0,0,,,,,0,,,109780,A3,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/A3_1.jpg,,,,,,,,,0
+2427,simple,6958265102226,"A3 PRO",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,189530,A3,,,,,,,,,,,,0
+2428,simple,6958265102219,"A3 UPGRADE KIT",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,57970,"A3 > A3 parts",,,,,,,,,,,,0
+2429,simple,6958265141119,A3-AG,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,121297,"A3 > A3 parts",,,,,,,,,,,,0
+2431,simple,6958265174148,"Card DJI Care  Refresh（Mavic 2）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,17314,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/mavic_2_care.png,,,,,,,,,0
+2432,simple,6958265174056,"Card DJI Care  Refresh（Mavic Air）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,9900,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/mavic_air_care.png,,,,,,,,,0
+2433,simple,,"Card DJI Care  Refresh（Mavic Air）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,13233,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/mavic_air_care.png,,,,,,,,,0
+2437,simple,6958265174100,"Card DJI Care  Refresh（Phantom 4 Pro）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,25454,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4_care.png,,,,,,,,,0
+2438,simple,6958265174124,"Card DJI Care  Refresh（Zenmuse X5S）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,31570,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/x5s_care.png,,,,,,,,,0
+2439,simple,6958265174131,"Card DJI Care  Refresh（Zenmuse X7）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,45826,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/x7_care.png,,,,,,,,,0
+2440,simple,6958265101403,"Card DJI Care Refresh (Mavic Air 2) JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,11000,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic_Air_2_Care.jpg,,,,,,,,,0
+2441,simple,6958265192210,"Card DJI Care Refresh (Mavic Mini) JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,4400,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic_mini_care.jpg,,,,,,,,,0
+2442,simple,6958265191749,"Card DJI Care Refresh (Ronin-S) JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7150,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/ronin_s_care.jpg,,,,,,,,,0
+2443,simple,6958265191633,"Card DJI Care Refresh (Ronin-SC) JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,5225,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/ronin_care.jpg,,,,,,,,,0
+2444,simple,6958265174094,"Card DJI Care Refresh（Inspire 2）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,43791,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/inspire2_care.png,,,,,,,,,0
+2445,simple,6958265187698,"Card DJI Care Refresh（Osmo Action）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,4950,Services,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo_action_care.jpg,,,,,,,,,0
+2446,simple,6958265192265,"Card OSMO Shield (OSMO Mobile 3) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1375,Services,,,,,,,,,,,,0
+2447,simple,"6958265184680 ","Card OSMO Shield( Osmo Pocket )JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4950,Services,,,,,,,,,,,,0
+2448,simple,6958265147494,"Cendence Remote Controller",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,131384,"Spare parts",,,,,,,,,,,,0
+2449,simple,6958265150777,"Cendence コントロールスティックカバー",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,3256,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/cendence-stick.jpg,,,,,,,,,0
+2450,simple,6958265150753,"Cendence パッチアンテナ",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,30349,"Spare parts",,,,,,,,,,,,0
+2451,simple,6958265147630,"Cendence モニター取り付けブラケット",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,10384,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/cendence-moniter-mounting-bracket.jpg,,,,,,,,,0
+2452,simple,6958265150760,"Cendence 送信機サポートリグ",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1419,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/cendence-trans-support.jpg,,,,,,,,,0
+2453,simple,,"CinemaDNG & Apple ProResのアクティベーションキー",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,165000,"Spare parts",,,,,,,,,,,,0
+2454,simple,,CinemaDNGアクティベーションキー,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,121000,"Spare parts",,,,,,,,,,,,0
+2455,simple,6958265184598,"Code OSMO Shield( Osmo Pocket )JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4950,Services,,,,,,,,,,,,0
+2456,simple,6958265184642,"Code OSMO Shield（Osmo Mobile 2）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1650,Services,,,,,,,,,,,,0
+2457,simple,6958265145476,"CrystalSky - 送信機取り付けブラケット",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,10593,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/CrystalSky-送信機取り付けブラケット.jpg,,,,,,,,,0
+2458,simple,6958265145827,"CrystalSky & Cendence インテリジェントバッテリー",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,7634,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/CrystalSky-Cendence-インテリジェントバッテリー.jpg,,,,,,,,,0
+2459,simple,6958265145834,"CrystalSky & Cendence インテリジェントバッテリー充電ハブ",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,6314,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/CrystalSky-Cendence-バッテリー充電ハブ.jpg,,,,,,,,,0
+2460,simple,6958265151743,"CrystalSky Mavic Pro/Spark送信機 取り付けブラケット",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,10384,"Spare parts",,,,,,,,,,,,0
+2461,simple,6958265154249,"Crystalsky PART6 Monitor Hood (For 5.5 Inch)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4576,"Spare parts",,,,,,,,,,,,0
+2462,simple,6958265154256,"Crystalsky PART7 Monitor Hood (For 7.85 Inch)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,10384,"Spare parts",,,,,,,,,,,,0
+2463,simple,6958265144561,"CrystalSky Ultra（7.85inch）",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,131384,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/CrystalSky-7.85インチ超高輝度.jpg,,,,,,,,,0
+2464,simple,6958265144547,CrystalSky（5.5inch）,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,61919,"Spare parts",,,,,,,,,,,,0
+2465,simple,6958265144554,CrystalSky（7.85inch）,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,92268,"Spare parts",,,,,,,,,,,,0
+2466,simple,6971511319353,"CYNOVA Osmo Action Dual 3.5mm/USB-C Adapter",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,5225,"Spare parts",,,,,,,,,,,,0
+2467,simple,6971511319308,"CYNOVA Osmo Action Mini tripod",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,2475,"Spare parts",,,,,,,,,,,,0
+2468,simple,"6971511319315      ","CYNOVA Osmo Action Protective Sleeve",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1650,"Spare parts",,,,,,,,,,,,0
+2469,simple,6971511319292,"Cynova Propeller Guard for Tello (Gray)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1925,"Spare parts",,,,,,,,,,,,0
+2470,simple,6958265173974,"DJI Care  Refresh（Inspire 2）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,43791,Services,,,,,,,,,,,,0
+2471,simple,6958265174049,"DJI Care  Refresh（Mavic 2）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,17314,Services,,,,,,,,,,,,0
+2472,simple,6958265173936,"DJI Care  Refresh（Mavic Air）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,9900,Services,,,,,,,,,,,,0
+2473,simple,,"DJI Care  Refresh（Mavic Air）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,13233,Services,,,,,,,,,,,,0
+2477,simple,6958265173981,"DJI Care  Refresh（Phantom 4 Pro）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,25454,Services,,,,,,,,,,,,0
+2478,simple,6958265174018,"DJI Care  Refresh（Zenmuse X5S）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,31570,Services,,,,,,,,,,,,0
+2479,simple,6958265174025,"DJI Care  Refresh（Zenmuse X7）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,45826,Services,,,,,,,,,,,,0
+2480,simple,6958265101175,"DJI Care Refresh (Mavic Air 2) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,11000,Services,,,,,,,,,,,,0
+2481,simple,6958265192050,"DJI Care Refresh (Mavic Mini) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4400,Services,,,,,,,,,,,,0
+2482,simple,6958265191824,"DJI Care Refresh (Ronin-S) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,7150,Services,,,,,,,,,,,,0
+2483,simple,6958265191916,"DJI Care Refresh (Ronin-SC) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,5225,Services,,,,,,,,,,,,0
+2484,simple,6958265187445,"DJI Care Refresh（Osmo Action）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4950,Services,,,,,,,,,,,,0
+2485,simple,6958265144622,"DJI Focus  ハンドホイール2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,45650,"Spare parts",,,,,,,,,,,,0
+2487,simple,6958265166099,"DJI Force Pro",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,158884,"Goggles > DJI Goggles",,,,,,,,,,,,0
+2488,simple,6958265149931,"DJI Goggles - HDMI 変換アダプタ [(Type A)メス - (Type C)オス]",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,660,"Goggles > Goggles parts",,,,,,,,,,,,0
+2489,simple,6958265149955,"DJI Goggles - microUSB OTGケーブ",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,660,"Goggles > Goggles parts",,,,,,,,,,,,0
+2493,simple,6958265142680,"DJI Goggles(JP)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,50721,"Goggles > DJI Goggles",,,,,,,,,,,,0
+2496,simple,6958265198236,"DJI Mini Bag",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,3520,"Spare parts",,,,,,,,,,,,0
+2497,simple,6958265199356,"DJI Mini Bag（Black&Yellow）",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,3520,"Spare parts",,,,,,,,,,,,0
+2498,simple,6958265199363,"DJI Mini Bag（Blue&Yellow）",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,3520,"Spare parts",,,,,,,,,,,,0
+2499,simple,6958265198243,"DJI Part 12 18W USB Charger (US＆JP＆TW )",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1760,"Spare parts",,,,,,,,,,,,0
+2502,simple,6958265175718,"DJI Smart Controller (16GB Universal Edition) (with Type-C Power Cable)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,85250,"Spare parts",,,,,,,,,,,,0
+2503,simple,"6958265154300 ","DJI バッテリーステーション",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,160919,"Spare parts",,,,,,,,,,,,0
+2504,simple,6958265150616,"DJIバッテリーセーフバッグ (大)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1221,"Spare parts",,,,,,,,,,,,0
+2505,simple,6958265150623,"DJIバッテリーセーフバッグ (小)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1221,"Spare parts",,,,,,,,,,,,0
+2506,simple,6972971860003,"Freewell Osmo Pocket Wide Angle Lens",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4180,"Goggles > Goggles parts",,,,,,,,,,,,0
+2507,simple,6958265163425,"GameSir T1d controller",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,3861,"Goggles > Goggles parts",,,,,,,,,,,,0
+2513,simple,6958265162480,"Goggles Part22 Corrective Lenses+4.5D",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,3861,"Goggles > Goggles parts",,,,,,,,,,,,0
+2514,simple,6958265162473,"Goggles Part23 Corrective Lenses+5.0D",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,3861,"Goggles > Goggles parts",,,,,,,,,,,,0
+2515,simple,6958265121982,"Inspire 2",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,396110,"Drones > Inspire",,,,,,,,,,,,0
+2516,simple,6958265165214,"Inspire 2  Part64 Remote Controller Mobile Device Holder",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,7942,"Drones > Inspire parts",,,,,,,,,,,,0
+2517,simple,6958265143045,"Inspire 2 - 180W電源アダプターACケーブル",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1221,"Drones > Inspire parts",,,,,,,,,,,,0
+2518,simple,6958265144738,"Inspire 2 - カーチャージャー",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,14454,"Drones > Inspire parts",,,,,,,,,,,,0
+2519,simple,6958265144608,"Inspire 2 - バッテリー断熱ステッカー",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,660,"Drones > Inspire parts",,,,,,,,,,,,0
+2520,simple,6958265141263,"Inspire 2 (JP)（L）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,561110,"Drones > Inspire",,,,,,,,,,,,0
+2521,simple,,"Inspire 2 (JP)（L）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,561204,"Drones > Inspire",,,,,,,,,,,,0
+2522,simple,6958265147647,"Inspire 2 / Cendence送信機モバイルデバイスホルダー",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3861,"Drones > Inspire parts",,,,,,,,,,,,0
+2523,simple,,"Inspire 2 Cinema Premium コンボ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,2607330,"Drones > Inspire",,,,,,,,,,,,0
+2524,simple,,"Inspire 2 Combo Original Price",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,813780,"Drones > Inspire",,,,,,,,,,,,0
+2525,simple,6958265140990,"Inspire 2 Part 01 DJI CINESSD（120G）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,38698,"Drones > Inspire parts",,,,,,,,,,,,0
+2526,simple,6958265141010,"Inspire 2 Part 03 CINESSDステーション",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,18018,"Drones > Inspire parts",,,,,,,,,,,,0
+2527,simple,6958265140488,"Inspire 2 Part 05 TB50インテリジェントフライトバッテリー（*2）",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,19250,"Drones > Inspire parts",,,,,,,,,,,,0
+2528,simple,6958265140495,"Inspire 2 Part 06 1550Tクイックリリースプロペラ",1,0,visible,,,,,taxable,,1,4,,0,0,,,,,0,,,1826,"Drones > Inspire parts",,,,,,,,,,,,0
+2529,simple,6958265140501,"Inspire 2 Part 07 180W Power Adaptor (without AC cable)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,8349,"Drones > Inspire parts",,,,,,,,,,,,0
+2530,simple,6958265140518,"Inspire 2 Part 08  Intelligent Flight Battery Charging Hub",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,11913,"Drones > Inspire parts",,,,,,,,,,,,0
+2531,simple,6958265140976,"Inspire 2 Part 09 Remote Controller（JP）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,66407,"Drones > Inspire parts",,,,,,,,,,,,0
+2532,simple,6958265140983,"Inspire 2 Part 10 1550T Quick Release Propeller Mounting Plates",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1100,"Drones > Inspire parts",,,,,,,,,,,,0
+2533,simple,6958265141294,"Inspire 2 Part 11 高地用クイックリリースプロペラ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,2640,"Drones > Inspire parts",,,,,,,,,,,,0
+2534,simple,6958265141300,"Inspire 2 Part 12 送信機充電ケーブル",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1419,"Drones > Inspire parts",,,,,,,,,,,,0
+2535,simple,6958265141539,"Inspire 2 Part 15 GPS module for remote control",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3564,"Drones > Inspire parts",,,,,,,,,,,,0
+2536,simple,6958265141560,"Inspire 2 Part 17 TB50インテリジェントフライトバッテリー（*8）",1,0,visible,,,,,taxable,,1,2,,0,0,,,,,0,,,19250,"Drones > Inspire parts",,,,,,,,,,,,0
+2537,simple,6958265141737,"Inspire 2 Part 18 DJI CINESSD（240G）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,65175,"Drones > Inspire parts",,,,,,,,,,,,0
+2538,simple,6958265141553,"Inspire 2 Part16 180W 電源アダプター (標準版) (ACケーブルなし)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,12518,"Drones > Inspire parts",,,,,,,,,,,,0
+2539,simple,6958265150647,"Inspire 2 Part42 Inspire 1 アダプター - Inspire 2充電ハブ 電源ケーブル",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1221,"Drones > Inspire parts",,,,,,,,,,,,0
+2540,simple,6958265161971,"Inspire 2 Part56 CINESSD Station (Thunderbolt 3)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,39512,"Drones > Inspire parts",,,,,,,,,,,,0
+2541,simple,6958265159213,"Inspire 2 Part61 Gimbal Rubber Dampers (10PCS)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3256,"Drones > Inspire parts",,,,,,,,,,,,0
+2542,simple,6958265157929,"Inspire 2 Part62 Mobile Device Holder Adapter",1,0,visible,,,,,taxable,,1,4,,0,0,,,,,0,,,1628,"Drones > Inspire parts",,,,,,,,,,,,0
+2543,simple,6958265166013,"Inspire 2 Part63 Gimbal Protection Set",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1826,"Drones > Inspire parts",,,,,,,,,,,,0
+2544,simple,6958265170362,"Inspire 2 Part65 DJI CINESSD Storage Box",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,14454,"Drones > Inspire parts",,,,,,,,,,,,0
+2545,simple,,"Inspire 2 Premium コンボ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1588840,"Drones > Inspire",,,,,,,,,,,,0
+2546,simple,,"Inspire 2 Professional コンボ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1252680,"Drones > Inspire",,,,,,,,,,,,0
+2547,simple,6958265147784,"Inspire 2 RAW （JP）（LC3）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,622270,"Drones > Inspire",,,,,,,,,,,,0
+2548,simple,6958265157684,"Inspire 2 プロペラガード",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,20163,"Drones > Inspire parts",,,,,,,,,,,,0
+2549,simple,6958265157677,"Inspire 2 手持ちグリップ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,18326,"Drones > Inspire parts",,,,,,,,,,,,0
+2550,simple,6958265147821,"Inspire 2 機体（送信機および充電器を含まず）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,343035,"Drones > Inspire parts",,,,,,,,,,,,0
+2551,simple,6958265144578,"Inspire 2 用 DJI Focus ハンドホイール送信機スタンド",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,6380,"Drones > Inspire parts",,,,,,,,,,,,0
+2552,simple,6958265150654,"Inspire 2 送信機サポートリグ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1925,"Drones > Inspire parts",,,,,,,,,,,,0
+2553,simple,6958265158582,"Inspire 2_(JP) (ProRes)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,456610,"Drones > Inspire",,,,,,,,,,,,0
+2554,simple,,"Inspire2 Part39 Cendence Mobile Device Holder",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3871,"Drones > Inspire parts",,,,,,,,,,,,0
+2557,simple,6958265174605,"Mavic 2 Part1 Fly More Kit",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,46750,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/large_7aba93f6-dbaf-44b4-82e7-9bbab2f1f059.jpg,,,,,,,,,0
+2558,simple,6958265175749,"Mavic 2 Part10 Battery Charging Hub",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,7447,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part10-Battery-Charging-Hub.jpg,,,,,,,,,0
+2559,simple,6958265175756,"Mavic 2 Part11 Car Charger",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,8921,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part11-Car-Charger.jpg,,,,,,,,,0
+2560,simple,6958265175763,"Mavic 2 Part12 Battery to Power Bank Adaptor",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,2926,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part12-Battery-to-Power-Bank-Adaptor.jpg,,,,,,,,,0
+2561,simple,6958265174988,"Mavic 2 Part13 Low-Noise Propellers (Pair)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1518,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part13-Low-Noise-Propellers-Pair.jpg,,,,,,,,,0
+2562,simple,6958265175770,"Mavic 2 Part14 Propeller Guard",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,2926,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part14-Propeller-Guard.jpg,,,,,,,,,0
+2563,simple,6958265175787,"Mavic 2 Part15 Pro Gimbal Protector",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1826,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part15-Pro-Gimbal-Protector.jpg,,,,,,,,,0
+2564,simple,6958265175794,"Mavic 2 Part16 Zoom Gimbal Protector",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1826,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part16-Zoom-Gimbal-Protector.jpg,,,,,,,,,0
+2565,simple,6958265175800,"Mavic 2 Part17 Pro ND Filters Set (ND4/8/16/32)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,12100,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part17-Pro-ND-Filters-Set-ND4-8-16-32.jpg,,,,,,,,,0
+2566,simple,6958265175817,"Mavic 2 Part18 Zoom ND Filters Set (ND4/8/16/32)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,9042,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part18-Zoom-ND-Filters-Set-ND4-8-16-32.jpg,,,,,,,,,0
+2567,simple,6958265174971,"Mavic 2 Part2 Intelligent Flight Battery",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,16500,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part2-Intelligent-Flight-Battery.jpg,,,,,,,,,0
+2568,simple,6958265175824,"Mavic 2 Part20 Remote Controller Tablet Holder ",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4378,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part20-Remote-Controller-Tablet-Holder-.jpg,,,,,,,,,0
+2569,simple,6958265175831,"Mavic 2 Part21 Shoulder Bag",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,12100,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part21-Shoulder-Bag.jpg,,,,,,,,,0
+2570,simple,6958265175848,"Mavic 2 Part22 Protector Case",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,13200,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part22-Protector-Case.jpg,,,,,,,,,0
+2571,simple,6958265175671,"Mavic 2 Part3 Battery Charger (Without AC Cable)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,2926,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part3-Battery-Charger-Without-AC-Cable.jpg,,,,,,,,,0
+2572,simple,6958265178689,"Mavic 2 Part32 Aircraft Sleeve",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1221,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part32-Aircraft-Sleeve-1.jpg,,,,,,,,,0
+2575,simple,6958265174520,"Mavic 2 Pro（JP）",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,197560,"Drones > Mavic",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Pro（JP）.jpg,,,,,,,,,0
+2576,simple,6958265174537,"Mavic 2 Zoom（JP）",1,0,visible,,,,,taxable,,1,2,,0,0,,,,,0,,,165000,"Drones > Mavic",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Zoom（JP）.jpg,,,,,,,,,0
+2577,simple,6958265100314,"Mavic Air 2 (JP)",1,0,visible,,,,,taxable,,1,15,5,0,0,,,,,0,,,105600,"Drones > Mavic",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-JP.jpg,,,,,,,,,0
+2578,simple,6958265103407,"Mavic Air 2 Aircraft Sleeve",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,880,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-2-Part32-Aircraft-Sleeve-2.jpg,,,,,,,,,0
+2579,simple,6958265101953,"Mavic Air 2 Battery Charger (Global)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,2420,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-Battery-Charger-Global.jpg,,,,,,,,,0
+2580,simple,6958265101984,"Mavic Air 2 Battery Charging Hub",1,0,visible,,,,,taxable,,1,7,,0,0,,,,,0,,,6380,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-Battery-Charging-Hub.jpg,,,,,,,,,0
+2581,simple,6958265101977,"Mavic Air 2 Battery to Power Bank Adaptor",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,2420,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-Battery-to-Power-Bank-Adaptor.jpg,,,,,,,,,0
+2582,simple,6958265103391,"Mavic Air 2 Car Charger",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,6380,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-Car-Charger.jpg,,,,,,,,,0
+2583,simple,6958265103414,"Mavic Air 2 Control Stick",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1320,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-Control-Stick.jpg,,,,,,,,,0
+2584,simple,6958265123245,"Mavic Air 2 Exhibition Prototype",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,"Drones > Mavic parts",,,,,,,,,,,,0
+2585,simple,6958265100390,"Mavic Air 2 Fly More Combo (JP)",1,0,visible,,,,,taxable,,1,13,,0,0,,,,,0,,,132000,"Drones > Mavic",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-Fly-More-Combo-JP.jpg,,,,,,,,,0
+2586,simple,6958265101960,"Mavic Air 2 Gimbal Protector",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1320,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-Gimbal-Protector.jpg,,,,,,,,,0
+2587,simple,6958265125522,"Mavic Air 2 Intelligent Flight Battery (Global)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,13200,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-Intelligent-Flight-Battery-Global.jpg,,,,,,,,,0
+2588,simple,6958265101946,"Mavic Air 2 Low-Noise Propellers (Pair)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1100,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-Low-Noise-Propellers-Pair.jpg,,,,,,,,,0
+2589,simple,6958265101991,"Mavic Air 2 ND Filters Set (ND16/64/256)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7700,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-ND-Filters-Set-ND-16-64-256.jpg,,,,,,,,,0
+2590,simple,6958265125539,"Mavic Air 2 ND Filters Set (ND4/8/32)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7700,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-ND-Filters-Set-ND4-8-32.jpg,,,,,,,,,0
+2592,simple,6958265103360,"Mavic Air 2 RC Cable (Lightning Connector)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1320,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-RC-Cable-Lightning-Connector.jpg,,,,,,,,,0
+2593,simple,6958265103377,"Mavic Air 2 RC Cable (Standard Micro-USB Connector)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1320,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-RC-Cable-Standard-Micro-USB-Connector.jpg,,,,,,,,,0
+2594,simple,6958265103384,"Mavic Air 2 RC Cable (USB Type-C Connector)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1320,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Air-2-RC-Cable-USB-Type-C-Connector.jpg,,,,,,,,,0
+2608,simple,6958265192760,"Mavic Mini (JP)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,46200,"Drones > Mavic",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-JP.jpg,,,,,,,,,0
+2609,simple,6958265192821,"Mavic Mini Fly More Combo (JP)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,59400,"Drones > Mavic",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Fly-More-Combo-JP.jpg,,,,,,,,,0
+2610,simple,6958265198274,"Mavic Mini Part 1 Intelligent Flight Battery",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4730,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-1-Intelligent-Flight-Battery.jpg,,,,,,,,,0
+2611,simple,6958265198175,"Mavic Mini Part 10 Two-Way Charging Hub",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,4290,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-10-Two-Way-Charging-Hub.jpg,,,,,,,,,0
+2612,simple,6970801335837,"Mavic Mini Part 18 DIY Creative Kit",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1430,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-18-DIY-Creative-Kit.jpg,,,,,,,,,0
+2613,simple,6971681400004,"Mavic Mini Part 19 Charging Base",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4290,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-19-Charging-Base.jpg,,,,,,,,,0
+2614,simple,6958265198182,"Mavic Mini Part 2 Propellers (Set)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1210,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-2-Propellers-Set.jpg,,,,,,,,,0
+2615,simple,6971511319377,"Mavic Mini Part 20 Snap Adapter",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1430,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-20-Snap-Adapter.jpg,,,,,,,,,0
+2616,simple,6971511319360,"Mavic Mini Part 22 Propeller Holder(Beige)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1210,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-22-Propeller-HolderBeige.jpg,,,,,,,,,0
+2617,simple,6971511319384,"Mavic Mini Part 23 Propeller Holder(Charcoal)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1210,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-23-Propeller-HolderCharcoal.jpg,,,,,,,,,0
+2618,simple,6958265198199,"Mavic Mini Part 8 Control Sticks (Pair)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,990,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-8-Control-Sticks-Pair.jpg,,,,,,,,,0
+2619,simple,6958265198168,"Mavic Mini Part 9 360° Propeller Guard",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,1870,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Mini-Part-9-360°-Propeller-Guard.jpg,,,,,,,,,0
+2620,simple,6958265152955,"Mavic Part 1インテリジェント・フライトバッテリー(*20) (Platinum)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,11814,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Pro-Platinumインテリジェント・フライトバッテリー.jpg,,,,,,,,,0
+2621,simple,6958265152962,"Mavic Part 2 8331 低ノイズクイックリリース プロペラ (1組)(ゴールデン)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,1320,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part-2-8331-低ノイズクイックリリース-プロペラ-1組ゴールデン.jpg,,,,,,,,,0
+2622,simple,6958265154751,"Mavic Part 3 8331 低ノイズクイックリリース プロペラ (1組)(プラチナム色)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1320,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Pro-低ノイズ-クイックリリース-プロペラ-プラチナム色.jpg,,,,,,,,,0
+2623,simple,6958265134661,"Mavic Part1 ジンバルカバー",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1320,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part1-ジンバルカバー.jpg,,,,,,,,,0
+2624,simple,6958265134739,"Mavic Part11 50W バッテリー充電器 (電源ケーブルを含まず)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,2530,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part11-50W-バッテリー充電器-電源ケーブルを含まず.jpg,,,,,,,,,0
+2625,simple,6958265137693,"Mavic Part2 バッテリーパワーバンクアダプター",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2310,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part2-バッテリーパワーバンクアダプター.jpg,,,,,,,,,0
+2626,simple,6958265134517,"Mavic Part22 クイックリリース折りたたみプロペラ",1,0,visible,,,,,taxable,,1,9,,0,0,,,,,0,,,990,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part22-クイックリリース折りたたみプロペラ.jpg,,,,,,,,,0
+2627,simple,6958265134579,"Mavic Part26 インテリジェント・フライト・バッテリー(*20)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,10780,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part26-インテリジェント・フライト・バッテリー.jpg,,,,,,,,,0
+2628,simple,6958265134586,"Mavic Part27 7728 クイックリリース折りたたみプロペラ",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1221,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part27-7728-クイックリリース折りたたみプロペラ.jpg,,,,,,,,,0
+2629,simple,6958265134722,"Mavic Part28 送信機モニターフード",1,0,visible,,,,,taxable,,1,10,,0,0,,,,,0,,,2530,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part28-送信機モニターフード.jpg,,,,,,,,,0
+2630,simple,6958265134654,"Mavic Part29  RCケーブル(Lightningコネクター)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,2310,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part29-RCケーブルLightningコネクター.jpg,,,,,,,,,0
+2631,simple,6958265134609,"Mavic Part3  RCケーブル(スタンダード Micro USBコネクター)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,990,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part3-RCケーブルスタンダード-Micro-USBコネクター.jpg,,,,,,,,,0
+2635,simple,"6958265140358 ","Mavic Part39 ND Filters Set (ND4/8/16)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,19110701,"Drones > Mavic parts",,,,,,,,,,,,0
+2636,simple,6958265134616,"Mavic Part4  RCケーブル(リバースmicroUSBコネクター)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,990,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part4-RCケーブルリバースmicroUSBコネクター.jpg,,,,,,,,,0
+2639,simple,6958265134647,"Mavic Part5  RCケーブル(Type-C コネクター)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,990,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part5-RCケーブルType-C-コネクター.jpg,,,,,,,,,0
+2640,simple,6958265134630,"Mavic Part6 カーチャージャー",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,5940,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part6-カーチャージャー.jpg,,,,,,,,,0
+2641,simple,6958265134692,"Mavic Part7 バッテリー充電ハブ",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,4730,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part7-バッテリー充電ハブ.jpg,,,,,,,,,0
+2642,simple,6958265134685,"Mavic Part8 バッテリー充電ハブ(高機能版)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,7227,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Part8-バッテリー充電ハブ高機能版.jpg,,,,,,,,,0
+2643,simple,6958265152733,"Mavic Pro NDフィルターセット(ND4/8/16/32)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,7733,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Mavic-Pro-NDフィルターセットND4-8-16-32.jpg,,,,,,,,,0
+2645,simple,6958265152849,"Mavic Pro Platinum",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,135190,"Drones > Mavic",,,,,,,,,,,,0
+2646,simple,6958265152757,"Mavic Pro Platinum Fly Moreコンボ",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,176000,"Drones > Mavic",,,,,,,,,,,,0
+2647,simple,6958265103247,N3,1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,42064,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/N3.jpg,,,,,,,,,0
+2648,simple,,"N3 add on",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,37983,"Spare parts",,,,,,,,,,,,0
+2649,simple,6958265103278,N3-AG,1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,51634,"Spare parts",,,,,,,,,,,,0
+2650,simple,6958265103117,"Naza-M LED module",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1324,"Spare parts",,,,,,,,,,,,0
+2651,simple,6958265103209,"NAZA-M lite LED",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1324,"Spare parts",,,,,,,,,,,,0
+2652,simple,6958265103193,"NAZA-M lite PMU",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1019,"Spare parts",,,,,,,,,,,,0
+2653,simple,,"Naza-M Lite&GPS Combo+F450 ARF Kit+Landing Skid",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,28930,"Spare parts",,,,,,,,,,,,0
+2654,simple,,"Naza-M Lite&GPS Combo+F550 ARF Kit+Landing Skid",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,44660,"Spare parts",,,,,,,,,,,,0
+2655,simple,6958265103070,"Naza-M Lite&GPS コンボ",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,9570,"Spare parts",,,,,,,,,,,,0
+2656,simple,6958265103100,"Naza-M PMU V2",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,8759,"Spare parts",,,,,,,,,,,,0
+2657,simple,6958265103179,"Naza-M V2 & GPS コンボ",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,19250,"Spare parts",,,,,,,,,,,,0
+2658,simple,6958265103131,"Naza-M V2 GPS",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,5390,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Naza-M-V2-GPS.jpg,,,,,,,,,0
+2659,simple,,"Naza-M V2&GPS + F450 ARF + landing gear",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,36190,"Spare parts",,,,,,,,,,,,0
+2660,simple,,"Naza-M V2&GPS + F550 ARF + landing gear",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,51920,"Spare parts",,,,,,,,,,,,0
+2661,simple,6958265103216,"Naza-M-Lite V1.1",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,5940,"Spare parts",,,,,,,,,,,,0
+2662,simple,6958265186899,"Osmo Action",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,45650,"Osmos > Osmo",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action.jpg,,,,,,,,,0
+2663,simple,,"Osmo Action Diving Kit",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,13200,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Diving-Kit.jpg,,,,,,,,,0
+2664,simple,6958265188480,"Osmo Action Part 1 Battery(*40)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,2475,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part-1-Battery.jpg,,,,,,,,,0
+2665,simple,6958265188251,"Osmo Action Part 2 Adhesive Mount Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1925,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part-2-Adhesive-Mount-Kit.jpg,,,,,,,,,0
+2666,simple,6958265188244,"Osmo Action Part 3 Charging Kit",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,9075,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part-3-Charging-Kit.jpg,,,,,,,,,0
+2667,simple,6958265188183,"Osmo Action Part 4 Lens Filter Cap",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1925,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part-4-Lens-Filter-Cap.jpg,,,,,,,,,0
+2668,simple,6958265188206,"Osmo Action Part 5 USB-C Cover",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1925,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part-5-USB-C-Cover.jpg,,,,,,,,,0
+2669,simple,6958265188213,"Osmo Action Part 8 Camera Frame Kit",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,3850,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part-8-Camera-Frame-Kit.jpg,,,,,,,,,0
+2670,simple,6958265191084,"Osmo Action Part10 ND Filter Kit",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,4950,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part10-ND-Filter-Kit.jpg,,,,,,,,,0
+2671,simple,6958265191091,"Osmo Action Part11 Mounting Kit",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2200,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part11-Mounting-Kit-1.jpg,,,,,,,,,0
+2672,simple,6958265191107,"Osmo Action Part12 Waterproof Case",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,6325,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part12-Waterproof-Case.jpg,,,,,,,,,0
+2673,simple,6958265191114,"Osmo Action Part13 Floating Handle",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2200,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part13-Floating-Handle.jpg,,,,,,,,,0
+2674,simple,6958265192692,"Osmo Action Part14 Extension Rod",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,5940,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Part14-Extension-Rod.jpg,,,,,,,,,0
+2675,simple,,"Osmo Action Travel Kit",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,7810,"Osmos > Osmo",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Action-Travel-Kit.jpg,,,,,,,,,0
+2676,simple,6958265165962,"Osmo Mobile 2 Base",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1320,"Osmos > Osmo",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Mobile-2-Base.jpg,,,,,,,,,0
+2677,simple,6958265192654,"Osmo Mobile 3",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,13750,"Osmos > Osmo",,,"https://b2b.shinkudrone.com/wp-content/uploads/2020/04/medium_562b7cd2-f534-428a-a79b-d9082f4134fc.jpg, https://b2b.shinkudrone.com/wp-content/uploads/2020/04/medium_e05e6010-9766-425e-9c49-df4d33cd9f96.jpg, https://b2b.shinkudrone.com/wp-content/uploads/2020/04/medium_eb94840a-9b5a-4689-843d-0034dd41a321.jpg, https://b2b.shinkudrone.com/wp-content/uploads/2020/04/medium_bae07faf-5778-4f96-9238-1b8321a0f55f.jpg, https://b2b.shinkudrone.com/wp-content/uploads/2020/04/medium_894e9cd7-c448-4b7d-8ee1-9002ac4b40e2.jpg",,,,,,,,,0
+2678,simple,6958265192685,"Osmo Mobile 3 Combo",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,15950,"Osmos > Osmo",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/04/medium_c7e38b40-7088-460e-85cf-09caf131ed81.jpg,,,,,,,,,0
+2679,simple,6958265192753,"Osmo Part1 Grip Tripod",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,2200,"Osmos > Osmo parts",,,,,,,,,,,,0
+2680,simple,6958265192746,"Osmo Part2 Carrying Case",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,3575,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Part2-Carrying-Case.jpg,,,,,,,,,0
+2681,simple,6958265183447,"Osmo Pocket Part 1 Extension Rod",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,9075,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-1-Extension-Rod.jpg,,,,,,,,,0
+2682,simple,6958265183478,"Osmo Pocket Part 12 Smartphone Adapter（USB-C)(*10)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1375,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-12-Smartphone-Adapter（USB-C.jpg,,,,,,,,,0
+2683,simple,6958265183454,"Osmo Pocket Part 13 Expansion Kit",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,14454,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-13-Expansion-Kit.jpg,,,,,,,,,0
+2684,simple,6958265185274,"Osmo Pocket Part 14 Smartphone Adapter（Lightning） JP(*10)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1650,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-14-Smartphone-Adapter（Lightning）.jpg,,,,,,,,,0
+2685,simple,6958265192418,"Osmo Pocket Part 15 Anti-fog Inserts",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,550,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-15-Anti-fog-Inserts.jpg,,,,,,,,,0
+2686,simple,6958265179778,"Osmo Pocket Part 2 Charging Case",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,12650,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-2-Charging-Case.jpg,,,,,,,,,0
+2687,simple,6958265179785,"Osmo Pocket Part 3 Accessory Mount",1,0,visible,,,,,taxable,,1,6,,0,0,,,,,0,,,2541,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-3-Accessory-Mount.jpg,,,,,,,,,0
+2688,simple,6958265183430,"Osmo Pocket Part 4 Waterproof Case",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,6325,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-4-Waterproof-Case.jpg,,,,,,,,,0
+2689,simple,6958265179600,"Osmo Pocket Part 5 Wireless Module",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,7733,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-5-Wireless-Module.jpg,,,,,,,,,0
+2690,simple,6958265179792,"Osmo Pocket Part 6 Controller Wheel",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,7733,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-6-Controller-Wheel.jpg,,,,,,,,,0
+2691,simple,6958265179808,"Osmo Pocket Part 7 ND Filters Set",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,6325,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-7-ND-Filters-Set.jpg,,,,,,,,,0
+2692,simple,6958265183423,"Osmo Pocket Part 8 3.5mm Adapter",1,0,visible,,,,,taxable,,1,2,,0,0,,,,,0,,,5225,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Osmo-Pocket-Part-8-3.5mm-Adapter.jpg,,,,,,,,,0
+2693,simple,6958265186172,"Osmo Pocket(JAPAN)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,45650,"Osmos > Osmo",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/04/small_93f9bb7f-b1a4-49d2-82c5-0ed851cedcae@2x.png,,,,,,,,,0
+2694,simple,6958265192388,"OSMO Shield (OSMO Mobile 3) JP",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,1375,Services,,,,,,,,,,,,0
+2695,simple,6958265112843,"P4  Paet 9 100w充電器 （ACケーブルなし）",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,7260,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4-Paet-9-100w充電器-（ACケーブルなし）.jpg,,,,,,,,,0
+2696,simple,6958265112904,"P4  Part 15 100W AC 電源アダプタケーブル (JP)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,660,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4-Part-15-100W-AC-電源アダプタケーブル-JP.jpg,,,,,,,,,0
+2697,simple,6958265112836,"P4  Part 8 バッテリー充電ハブ",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,12430,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4-Part-8-バッテリー充電ハブ.jpg,,,,,,,,,0
+2698,simple,6958265144936,"P4 Part 104 160W Power Adapter (without AC cable)",1,0,visible,,,,,taxable,,1,4,1,0,0,,,,,0,,,8558,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4-Part-104-160W-Power-Adapter-without-AC-cable.jpg,,,,,,,,,0
+2699,simple,6958265138485,"P4 Part 62 プロペラガード",1,0,visible,,,,,taxable,,1,10,,0,0,,,,,0,,,2310,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4-Part-62-プロペラガード.jpg,,,,,,,,,0
+2700,simple,6958265138553,"P4 Part 64 インテリジェント・フライト・バッテリー (大容量5870mAh) (*20)",1,0,visible,,,,,taxable,,1,41,,0,0,,,,,0,,,20361,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4-Part-64-インテリジェント・フライト・バッテリー-大容量5870mAh.jpg,,,,,,,,,0
+2701,simple,6958265138607,"P4 Part 71 Phantom 4 Pro/Adv - ジンバルロック",1,0,visible,,,,,taxable,,1,2,,0,0,,,,,0,,,1221,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4-Part-71-Phantom-4-Pro-Adv-ジンバルロック.jpg,,,,,,,,,0
+2702,simple,6958265138676,"P4 Part 79 Phantom 4 シリーズ - プロペラマウントプレート",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1221,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4-Part-79-Phantom-4-シリーズ-プロペラマウントプレート.jpg,,,,,,,,,0
+2703,simple,6958265170409,"P4P Part 137 9455S Low-Noise Quick-Release Propellers (Pro/Pro+V2.0)",1,0,visible,,,,,taxable,,1,15,,0,0,,,,,0,,,1221,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/P4P-Part-137-9455S-Low-Noise-Quick-Release-Propellers.jpg,,,,,,,,,0
+2704,simple,6958265119507,"Phantom 3 Part 54  HDMI出力モジュール",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,13640,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Phantom-3-Part-54-HDMI出力モジュール.jpg,,,,,,,,,0
+2705,simple,6958265169762,"Phantom 4 Proシリーズ申請用プロペラガード",1,0,visible,,,,,taxable,,1,33,,0,0,,,,,0,,,2310,"Drones > Phantom parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Phantom-4-Proシリーズ申請用プロペラガード.jpg,,,,,,,,,0
+2706,simple,6958265164989,"Phantom4 PRO V2.0",1,0,visible,,,,,taxable,,0,0,,0,0,,,,,0,,,207680,"Drones > Phantom",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Phantom4-PRO-V2.0.jpg,,,,,,,,,0
+2707,simple,6958265164880,"Phantom4 PRO+ V2.0",1,0,visible,,,,,taxable,,1,3,1,0,0,,,,,0,,,243320,"Drones > Phantom",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Phantom4-PRO-V2.0-1.jpg,,,,,,,,,0
+2708,simple,6958265187995,"RoboMaster S1 (JP)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,66000,"Robomaster > Robomaster S1",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-JP.jpg,,,,,,,,,0
+2709,simple,6958265189197,"RoboMaster S1 PART 10 Vision Marker",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,704,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART-10-Vision-Marker.jpg,,,,,,,,,0
+2710,simple,6958265188305,"RoboMaster S1 PART 13 Gel Bead Container",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,3025,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART-13-Gel-Bead-Container.jpg,,,,,,,,,0
+2711,simple,6958265191329,"RoboMaster S1 PART 17 Gamepad",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7040,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART-17-Gamepad.jpg,,,,,,,,,0
+2712,simple,,"RoboMaster S1 PART 17 Gamepad",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,9625,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART-17-Gamepad.jpg,,,,,,,,,0
+2713,simple,6958265188312,"RoboMaster S1 PART 3 Intelligent Battery",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,7480,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART-3-Intelligent-Battery.jpg,,,,,,,,,0
+2715,simple,6958265188268,"RoboMaster S1 PART 4 Intelligent Battery Charger",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,2475,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART-4-Intelligent-Battery-Charger-1.jpg,,,,,,,,,0
+2716,simple,6958265188299,"RoboMaster S1 PART 5 AC Power Cable (JP)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,825,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART-5-AC-Power-Cable-JP.jpg,,,,,,,,,0
+2717,simple,6958265188343,"RoboMaster S1 PART 8 Safty Goggles",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1100,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART-8-Safty-Goggles.jpg,,,,,,,,,0
+2718,simple,6958265188336,"RoboMaster S1 PART 9 Gel Beads",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1100,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART-9-Gel-Beads.jpg,,,,,,,,,0
+2719,simple,6958265194672,"RoboMaster S1 PART1 Chassis Armor Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,2970,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART1-Chassis-Armor-Kit.jpg,,,,,,,,,0
+2720,simple,6958265194658,"RoboMaster S1 PART11 Cable Package",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1870,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART11-Cable-Package.jpg,,,,,,,,,0
+2721,simple,6958265188138,"RoboMaster S1 PART19 PlayMore Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,17820,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART19-PlayMore-Kit.jpg,,,,,,,,,0
+2723,simple,6958265188329,"RoboMaster S1 PART7 Mecanum Wheels（Pair）",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,5940,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART7-Mecanum-Wheels（Pair）.jpg,,,,,,,,,0
+2724,simple,,"RoboMaster S1 PART7 Mecanum Wheels（Pair）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,4400,"Robomaster > Robomaster parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoboMaster-S1-PART7-Mecanum-Wheels（Pair）.jpg,,,,,,,,,0
+2753,simple,6958265127496,"Ronin-MX Ronin-MX/SRW-60G 用 CANケーブル",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,968,"Ronins > Ronin parts",,,,,,,,,,,,0
+2754,simple,6958265171321,"Ronin-S (NA)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,94490,"Ronins > Ronin",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-NA.jpg,,,,,,,,,0
+2755,simple,6958265183355,"Ronin-S Essentials Kit",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,66000,"Ronins > Ronin",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-Essentials-Kit.jpg,,,,,,,,,0
+2756,simple,6958265173356,"Ronin-S PART 1 BG37 Grip",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,13134,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-1-BG37-Grip.jpg,,,,,,,,,0
+2757,simple,6958265178719,"Ronin-S PART 10 Cheese Plate",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2442,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-10-Cheese-Plate.jpg,,,,,,,,,0
+2758,simple,6958265179129,"Ronin-S PART 11 Multi-Camera Control USB Female Adapter",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,2442,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-11-Multi-Camera-Control-USB-Female-Adapter.jpg,,,,,,,,,0
+2759,simple,6958265179136,"Ronin-S PART 12 Multi-Camera Control Cable (Mini USB)",1,0,visible,,,,,taxable,,1,3,,0,0,,,,,0,,,2233,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-12-Multi-Camera-Control-Cable-Mini-USB.jpg,,,,,,,,,0
+2760,simple,6958265179143,"Ronin-S PART 13 Multi-Camera Control Cable (Multi)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2233,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-13-Multi-Camera-Control-Cable-Multi.jpg,,,,,,,,,0
+2761,simple,6958265179150,"Ronin-S PART 14 Command Unit",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,17105,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-14-Command-Unit.jpg,,,,,,,,,0
+2762,simple,6958265179440,"Ronin-S PART 15 Top Hotshoe Bracket",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,6512,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-15-Top-Hotshoe-Bracket.jpg,,,,,,,,,0
+2763,simple,6958265180873,"Ronin-S PART 16 Extended Lens Support",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2640,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-16-Extended-Lens-Support.jpg,,,,,,,,,0
+2764,simple,6958265180842,"Ronin-S PART 17 Focus Motor",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,22407,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-17-Focus-Motor.jpg,,,,,,,,,0
+2765,simple,6958265180859,"Ronin-S PART 18 Focus Motor Rod Mount",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2640,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-18-Focus-Motor-Rod-Mount.jpg,,,,,,,,,0
+2766,simple,6958265180828,"Ronin-S PART 19 Focus Gear Strip",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2640,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-19-Focus-Gear-Strip.jpg,,,,,,,,,0
+2767,simple,6958265176142,"Ronin-S PART 2 Extended Grip/Tripod",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,4884,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-2-Extended-Grip-Tripod.jpg,,,,,,,,,0
+2768,simple,6958265180781,"Ronin-S PART 20 Universal Mount",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,23419,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-20-Universal-Mount.jpg,,,,,,,,,0
+2769,simple,6958265180866,"Ronin-S PART 21 External GPS Module",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,9163,"Ronins > Ronin parts",,,,,,,,,,,,0
+2770,simple,6958265188756,"Ronin-S Part 24 Tethered Control Handle",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,32725,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/medium_30f243a1-d0ec-4f79-b93d-32e799ad2151.jpg,,,,,,,,,0
+2771,simple,6958265188763,"Ronin-S Part 25 Switch Grip Dual Handle",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,14575,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-Part-25-Switch-Grip-Dual-Handle.jpg,,,,,,,,,0
+2772,simple,6958265176159,"Ronin-S PART 3 Focus Wheel",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,7425,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-3-Focus-Wheel.jpg,,,,,,,,,0
+2773,simple,6958265176166,"Ronin-S PART 4 IR Control Cable",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2442,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-4-IR-Control-Cable.jpg,,,,,,,,,0
+2774,simple,6958265176173,"Ronin-S PART 5 Multi-Camera Control Cable (Type-C)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2442,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-5-Multi-Camera-Control-Cable-Type-C.jpg,,,,,,,,,0
+2775,simple,6958265176180,"Ronin-S PART 6 Multi-Camera Control Cable (Type-B)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2442,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-6-Multi-Camera-Control-Cable-Type-B.jpg,,,,,,,,,0
+2776,simple,6958265178481,"Ronin-S PART 7 Camera Riser",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2442,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-7-Camera-Riser.jpg,,,,,,,,,0
+2777,simple,6958265178467,"Ronin-S PART 8 Battery Adapter",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,4884,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-8-Battery-Adapter.jpg,,,,,,,,,0
+2778,simple,6958265178672,"Ronin-S PART 9 DC Power Cable",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2442,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-PART-9-DC-Power-Cable.jpg,,,,,,,,,0
+2779,simple,6958265195624,"Ronin-S/SC Part 11 L-Bracket Plate with Counterweight",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,15400,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-SC-Part-11-L-Bracket-Plate-with-Counterweight.jpg,,,,,,,,,0
+2780,simple,6958265195631,"Ronin-S/SC Part 12 Adjustable Monitor Mount",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,4400,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-S-SC-Part-12-Adjustable-Monitor-Mount.jpg,,,,,,,,,0
+2781,simple,6958265191299,"Ronin-S/SC Part 8 Phone Holder",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,4400,"Ronins > Ronin parts",,,,,,,,,,,,0
+2782,simple,6958265191183,Ronin-SC,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,52250,"Ronins > Ronin",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC.jpg,,,,,,,,,0
+2783,simple,6958265191312,"Ronin-SC Part 10 RSS Splitter",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2200,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part-10-RSS-Splitter.jpg,,,,,,,,,0
+2784,simple,6958265195662,"Ronin-SC Part 13 Dual Handles",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,12100,"Ronins > Ronin parts",,,,,,,,,,,,0
+2785,simple,6958265196393,"Ronin-SC Part 16 RSS Control Cable for FUJIFILM",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2200,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part-16-RSS-Control-Cable-for-FUJIFILM.jpg,,,,,,,,,0
+2786,simple,6958265191268,"Ronin-SC Part 2 Multi-Camera Control Cable (Type-C)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2200,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part-2-Multi-Camera-Control-Cable-Type-C.jpg,,,,,,,,,0
+2787,simple,6958265191251,"Ronin-SC Part 3 Multi-Camera Control Adapter (Type-C To Micro USB)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,1925,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part-3-Multi-Camera-Control-Adapter-Type-C-To-Micro-USB.jpg,,,,,,,,,0
+2788,simple,6958265191220,"Ronin-SC Part 6 Focus Motor",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,13750,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part-6-Focus-Motor.jpg,,,,,,,,,0
+2789,simple,6958265191282,"Ronin-SC Part 7 Focus Motor Rod Mount",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,3025,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part-7-Focus-Motor-Rod-Mount.jpg,,,,,,,,,0
+2790,simple,6958265191305,"Ronin-SC Part 9 RSS Control Cable for Panasonic",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,2200,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part-9-RSS-Control-Cable-for-Panasonic.jpg,,,,,,,,,0
+2791,simple,6958265191275,"Ronin-SC Part1 Multi-Camera Control Cable (Multi-USB)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2200,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part1-Multi-Camera-Control-Cable-Multi-USB.jpg,,,,,,,,,0
+2792,simple,6958265191237,"Ronin-SC Part4 BG18 Grip",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,8800,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part4-BG18-Grip.jpg,,,,,,,,,0
+2793,simple,6958265191244,"Ronin-SC Part5 Camera Riser",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2200,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Part5-Camera-Riser.jpg,,,,,,,,,0
+2794,simple,6958265191176,"Ronin-SC Pro Combo",1,0,visible,,,,,taxable,,1,2,1,0,0,,,,,0,,,63250,"Ronins > Ronin",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Ronin-SC-Pro-Combo.jpg,,,,,,,,,0
+2824,simple,6958265127458,"RoninMXPart 2 Panasonic製カメラ用RSSコントロールケーブル",1,0,visible,,,,,taxable,,1,1,1,0,0,,,,,0,,,880,"Ronins > Ronin parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/RoninMXPart-2-Panasonic製カメラ用RSSコントロールケーブル.jpg,,,,,,,,,0
+2825,simple,6972860170046,"TELESIN Osmo Action Bike Mount",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2310,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/TELESIN-Osmo-Action-Bike-Mount.jpg,,,,,,,,,0
+2826,simple,6972860170039,"TELESIN Osmo Action Chest Mount Harness",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,4180,"Spare parts",,,,,,,,,,,,0
+2827,simple,6972860170015,"TELESIN Osmo Action Head Strap",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2310,"Spare parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/TELESIN-Osmo-Action-Head-Strap.jpg,,,,,,,,,0
+2828,simple,6958265162930,"Tello (JP)（*20)",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,12980,"Drones > Tello > Tello",,,"https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello.jpg, https://b2b.shinkudrone.com/wp-content/uploads/2020/04/EDU_06.png",,,,,,,,,0
+2829,simple,6958265178511,"Tello Boost Combo(JP)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,19250,"Drones > Tello > Tello",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello-Boost-Combo.jpg,,,,,,,,,0,,,,
+2830,simple,6958265187865,"Tello Iron Man Edition Propeller Guards",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,1012,"Drones > Tello > Tello Iron man parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello-アイアンマン-プロペラガード.jpg,,,,,,,,,0,,,,
+2831,simple,6958265187872,"Tello Iron Man Edition Quick-Release Propellers",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,506,"Drones > Tello > Tello Iron man parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello-Iron-Man-Edition-Quick-Release-Propellers.jpg,,,,,,,,,0,,,,
+2832,simple,6958265167751,"Tello Part 1 Flight Battery(JP)（*20)",1,0,visible,,,,,taxable,,1,40,4,0,0,,,,,0,,,2541,"Drones > Tello > Tello parts",,,,,,,,,,,,0,,,,
+2833,simple,6958265163593,"Tello Part 2 Propellers",1,0,visible,,,,,taxable,,0,'-1,4,0,0,,,,,0,,,407,"Drones > Tello > Tello parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello-Part-2-Propellers.jpg,,,,,,,,,0,,,,
+2834,simple,6958265163586,"Tello Part 3 Propeller Guards",1,0,visible,,,,,taxable,,1,18,,0,0,,,,,0,,,605,"Drones > Tello > Tello parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello-Part-3-Propeller-Guards.jpg,,,,,,,,,0,,,,
+2835,simple,6958265163562,"Tello Part 4 Snap On Top Cover (Blue)",1,0,visible,,,,,taxable,,1,1,1,0,0,,,,,0,,,1221,"Drones > Tello > Tello parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello-Part-4-Snap-On-Top-Cover-Blue.jpg,,,,,,,,,0,,,,
+2836,simple,6958265163579,"Tello Part 5 Snap On Top Cover (Yellow)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1221,"Drones > Tello > Tello parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello-Part-5-Snap-On-Top-Cover-Yellow-1.jpg,,,,,,,,,0,,,,
+2837,simple,6958265163555,"Tello Part 6 Snap On Top Cover (White)",1,0,visible,,,,,taxable,,1,1,1,0,0,,,,,0,,,1221,"Drones > Tello > Tello parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello-Part-6-Snap-On-Top-Cover-White.jpg,,,,,,,,,0,,,,
+2838,simple,6958265167065,"Tello Part 9 Battery Charging Hub",1,0,visible,,,,,taxable,,1,30,4,0,0,,,,,0,,,1826,"Drones > Tello > Tello parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Tello-Part-9-Battery-Charging-Hub.jpg,,,,,,,,,0,,,,
+2839,simple,6972835230010,"TILTA Osmo Action Camera Cage",1,0,visible,,,,,taxable,,1,1,1,0,0,,,,,0,,,5940,"Osmos > Osmo parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/TILTA-Osmo-Action-Camera-Cage.jpg,,,,,,,,,0,,,,
+2840,simple,6958265167225,"Wheel Control Module I",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,332035,"Spare parts",,,,,,,,,,,,0,,,,
+2841,simple,6958265167249,"Wheel Control Module II",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,332035,"Spare parts",,,,,,,,,,,,0,,,,
+2842,simple,6958265167232,"Wheel Control Module III",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,332035,"Spare parts",,,,,,,,,,,,0,,,,
+2843,simple,6958265139161,"ZENMUSE X5S",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,252593,"Zenmuses > Zenmuse",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Zenmuse-X5S.jpg,,,,,,,,,0,,,,
+2844,simple,6958265141201,"Zenmuse X5S Gimbal and Camera (Lens Excluded)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,185361,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Zenmuse-X5S-Gimbal-and-Camera-Lens-Excluded.jpg,,,,,,,,,0,,,,
+2845,simple,6958265141881,"ZENMUSE X5S Part 2 Balancing Ring for Panasonic 15mm，F/1.7 ASPH Prime Lens",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1210,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/ZENMUSE-X5S-Part-2-Balancing-Ring-for-Panasonic-15mm，F1.7-ASPH-Prime-Lens.jpg,,,,,,,,,0,,,,
+2846,simple,6958265141928,"ZENMUSE X5S Part 3 Balancing Ring for Panasonic 1442mm，F/3.55.6 ASPH Zoom Lens",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1210,"Zenmuses > Zenmuse parts",,,,,,,,,,,,0,,,,
+2847,simple,6958265141935,"ZENMUSE X5S Part 4 Balancing Ring for Olympus 45mm，F/1.8 ASPH Prime Lens",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1210,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/ZENMUSE-X5S-Part-4-Balancing-Ring-for-Olympus-45mm，F1.8-ASPH-Prime-Lens.jpg,,,,,,,,,0,,,,
+2848,simple,6958265141942,"ZENMUSE X5S Part 5 Balancing Ring for Olympus 9-18mm，F/4.05.6 ASPH Zoom Lens",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1980,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Zenmuse-X5S-バランシングリング-オリンパス-M.Zuiko-9-18mm-4.0-5.6.jpg,,,,,,,,,0,,,,
+2849,simple,6958265141959,"ZENMUSE X5S Part 6 Balancing Ring for Olympus 12mm，F/2.0&17mm,F/1.8&25mm,F/1.8 ASPH Prime Lens",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1210,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/ZENMUSE-X5S-Part-6-Balancing-Ring-for-Olympus-12mm，F2.017mmF1.825mmF1.8-ASPH-Prime-Lens.jpg,,,,,,,,,0,,,,
+2850,simple,6958265154980,"Zenmuse X7 DL 24mm F2.8 LS ASPHレンズ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,171512,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Zenmuse-X7-DL-24mm-F2.8-LS-ASPHレンズ.jpg,,,,,,,,,0,,,,
+2851,simple,6958265154669,"Zenmuse X7 DL 35mm F2.8 LS ASPHレンズ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,171512,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Zenmuse-X7-DL-35mm-F2.8-LS-ASPHレンズ.jpg,,,,,,,,,0,,,,
+2852,simple,6958265154676,"Zenmuse X7 DL 50mm F2.8 LS ASPHレンズ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,158268,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Zenmuse-X7-DL-50mm-F2.8-LS-ASPHレンズ.jpg,,,,,,,,,0,,,,
+2853,simple,6958265154737,"Zenmuse X7 DL-S 16mm F2.8 ND ASPHレンズ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,171512,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Zenmuse-X7-DL-S-16mm-F2.8-ND-ASPHレンズ.jpg,,,,,,,,,0,,,,
+2854,simple,6958265156755,"Zenmuse X7 DL/DL-S Lens Carrying Box",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,9064,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Zenmuse-X7-DL-DL-S-Lens-Carrying-Box.jpg,,,,,,,,,0,,,,
+2855,simple,6958265156762,"Zenmuse X7 DL/DL-Sレンズセット",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,558140,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/lens-set-x7.jpg,,,,,,,,,0,,,,
+2856,simple,6958265175206,"Zenmuse X7 PART10 DJI DL/DL-S Lens ND128 Filter (DLX series)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7425,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/Zenmuse-X7-DL-DL-S-レンズ-ND128-フィルター.jpg,,,,,,,,,0,,,,
+2857,simple,6958265175213,"Zenmuse X7 PART11 DJI DL/DL-S Lens Protector",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,6204,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/x7ND-protector.png,,,,,,,,,0,,,,
+2858,simple,6958265167652,"Zenmuse X7 Part16 DJI DL/DL-S Lens Filter Set (DLX series)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,44099,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/x7ND-set.jpg,,,,,,,,,0,,,,
+2859,simple,6958265175152,"Zenmuse X7 PART5 DJI DL/DL-S Lens ND4 Filter (DLX series)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7425,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/x7ND4.jpg,,,,,,,,,0,,,,
+2860,simple,6958265175169,"Zenmuse X7 PART6 DJI DL/DL-S Lens ND8 Filter (DLX series)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7425,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/x7ND8.jpg,,,,,,,,,0,,,,
+2861,simple,6958265175176,"Zenmuse X7 PART7 DJI DL/DL-S Lens ND16 Filter (DLX series)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7425,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/x7ND16.jpg,,,,,,,,,0,,,,
+2862,simple,6958265175183,"Zenmuse X7 PART8 DJI DL/DL-S Lens ND32 Filter (DLX series)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7425,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/x7ND32.jpg,,,,,,,,,0,,,,
+2863,simple,6958265175190,"Zenmuse X7 PART9 DJI DL/DL-S Lens ND64 Filter (DLX series)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7425,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/x7ND64.jpg,,,,,,,,,0,,,,
+2864,simple,6958265154713,"ZENMUSE X7（レンズを含まず）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,356268,"Zenmuses > Zenmuse parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/06/medium_582b3581-4efc-4c76-87ca-ec8dc0941bf0.jpg,,,,,,,,,0,,,,
+3783,simple,,"Tello EDU",1,0,visible,,,,,taxable,,1,30,5,0,0,,,,,0,,,17050,"Drones > Tello > Tello EDU",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/08/Tello-EDU.jpg,,,,,,,,,0,,,,
+3804,simple,,"DJI OM 4 (Osmo Mobile 4)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,16500,"Osmos > Osmo",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/08/DJI-OM-4-Osmo-Mobile-402.jpg,,,,,,,,,0,,,,
+3813,variable,,"SanDisk エクストリーム microSDHC",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,,"Spare parts > アクセソリ",,,"https://b2b.shinkudrone.com/wp-content/uploads/2020/09/sandisk.jpg, https://b2b.shinkudrone.com/wp-content/uploads/2020/09/sd32.jpg, https://b2b.shinkudrone.com/wp-content/uploads/2020/09/sd64.jpg, https://b2b.shinkudrone.com/wp-content/uploads/2020/09/sd128.jpg",,,,,,,,,0,Size,"128GB, 32GB, 64GB",1,1
+3819,variation,,"SanDisk エクストリーム microSDHC - 128GB",1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,11980,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/sd128.jpg,,,id:3813,,,,,,1,Size,128GB,,1
+3820,variation,,"SanDisk エクストリーム microSDHC - 32GB",1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,3980,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/sd32.jpg,,,id:3813,,,,,,2,Size,32GB,,1
+3821,variation,,"SanDisk エクストリーム microSDHC - 64GB",1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,6980,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/sd64.jpg,,,id:3813,,,,,,3,Size,64GB,,1
+3832,variable,,"ドローン ランディングパッド (PGYTECH)",1,0,visible,,,,,taxable,,1,15,,0,0,,,,,0,,,,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/landing-pad.jpg,,,,,,,,,0,Size,"55cm, 75cm",1,1
+3834,variation,,"ドローン ランディングパッド (PGYTECH) - 55cm",1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,2200,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/landing-pad.jpg,,,id:3832,,,,,,1,Size,55cm,,1
+3835,variation,,"ドローン ランディングパッド (PGYTECH) - 75cm",1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,2420,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/landing-pad.jpg,,,id:3832,,,,,,2,Size,75cm,,1
+3837,simple,,"Telloキャリングケース 【PGYTECH】",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,2200,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/tello-bag.jpg,,,,,,,,,0,,,,
+3840,simple,,"Mavic 2用 キャリングバッグ Mini【PGYTECH】",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,2200,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/mavic2bag.jpg,,,,,,,,,0,,,,
+3843,simple,,"DJI Osmo Pocket用 スマートフォンホルダーセットp-18c-027【PGYTECH】",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,20808,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/osmo_pocket_holder.jpg,,,,,,,,,0,,,,
+3846,simple,,"DJI Osmo Pocket用 スマートフォンホルダー＋ アクセサリー p-18c-029【PGYTECH】",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,3960,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/holder_big.jpg,,,,,,,,,0,,,,
+3849,simple,,"アクションカメラ用 マウント 3点 キット アクセサリー p-18c-033【PGYTECH】",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,2024,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/mount_action.jpg,,,,,,,,,0,,,,
+3852,simple,,"DJI Mavic Mini マビック ミニ用 拡張ランディングギア P-12A-012【PGYTECH】",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,1760,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/stand_ext.jpg,,,,,,,,,0,,,,
+3855,simple,,"DJIスマート送信機対応 ガラスフィルム【PGYTECH】",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,704,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/screen-guard.jpg,,,,,,,,,0,,,,
+3858,simple,,"DJI Tello用 保護ケージ【PGYTECH】",1,0,visible,,,,,taxable,,1,1,,0,0,,,,,0,,,1980,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/09/tello_cage.jpg,,,,,,,,,0,,,,
+3897,simple,,"P4 Multispectral",1,0,visible,"専用ソフト2種類の1年無償ライセンスと、SHIELD BASIC付（交換費用1回目：49,500円、2回目：55,000円、共に税込）。",,,,taxable,,1,,,0,0,,,,,0,,,738210,"Drones > Phantom",,,,,,,,,,,,0,,,,
+3941,simple,,"P4 Multispectral",1,0,visible,"専用ソフト2種類の1年無償ライセンスと、SHIELD BASIC付（交換費用1回目：49,500円、2回目：55,000円、共に税込）。",,,,taxable,,1,,,0,0,,,,,0,,,738210,Uncategorized,,,,,,,,,,,,0,,,,
+3943,simple,,"P4 Multispectral + D-RTK 2 High Precision GNSS Mobile Station Combo",1,0,visible,上記に加えて、D-RTK2（P4R用）とのコンボ。三脚付き。,,,,taxable,,backorder,,,0,0,,,,,0,,,1078550,"Drones > Phantom parts",,,,,,,,,,,,0,,,,
+3944,simple,6970112535117,"wingsland Z15 gimbal Spotlight (Z15)",1,0,visible,サードパーティ製PSDKソリューションのLED照明。アフターサポート対応可能。,,,,taxable,,backorder,,,0,0,,,,,0,,,250800,"Drones > Phantom parts",,,,,,,,,,,,0,,,,
+3945,simple,6958265194641,"Mavic 2 Enterprise（DUAL）Universal Edition",1,0,visible,DJI保険対象。3つのアクセサリーとケースとセットの機体一式。,,,,taxable,,1,,,0,0,,,,,0,,,431200,"Drones > Mavic",,,,,,,,,,,,0,,,,
+3946,simple,6958265181023,"Mavic 2 Enterprise（ZOOM）Universal Edition (JP)",1,0,visible,DJI保険対象。3つのアクセサリーとケースとセットの機体一式。,,,,taxable,,backorder,,,0,0,,,,,0,,,308000,"Drones > Mavic",,,,,,,,,,,,0,,,,
+3947,simple,"6958265193354 ","Mavic 2 Enterprise（DUAL）with Smart Controller (JP)",1,0,visible,機体に付属する送信機が、スマート送信機に代わってケース内に同梱。,,,,taxable,,1,,,0,0,,,,,1,,,488180,"Drones > Mavic",,,,,,,,,,,,0,,,,
+3948,simple,6958265193293,"Mavic 2 Enterprise（ZOOM） with Smart Controller (JP)",1,0,visible,機体に付属する送信機が、スマート送信機に代わってケース内に同梱。,,,,taxable,,backorder,,,0,0,,,,,0,,,372350,"Drones > Mavic",,,,,,,,,,,,0,,,,
+3949,simple,"6958265181146 ","Mavic 2 Enterprise Part1  Fly More Kit",1,0,visible,追加のコンボセット用。,,,,taxable,,backorder,,,0,0,,,,,1,,,55000,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+3950,simple,"6958265181153 ","Mavic 2 Enterprise Part2  battery",1,0,visible,自己発熱型バッテリー,,,,taxable,,1,,,0,0,,,,,1,,,22000,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+3951,simple,"6958265180910 ","Mavic 2 Enterprise Part3 Beacon",1,0,visible,ビーコン,,,,taxable,,backorder,,,0,0,,,,,1,,,8250,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+3952,simple,"6958265180927 ","Mavic 2 Enterprise Part4 Spotlight",1,0,visible,スポットライト,,,,taxable,,backorder,,,0,0,,,,,1,,,14300,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+3953,simple,"6958265180934 ","Mavic 2 Enterprise Part5 Speaker",1,0,visible,スピーカー,,,,taxable,,backorder,,,0,0,,,,,1,,,12100,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+3954,simple,"6958265181160 ","Mavic 2 Enterprise Part6 Protector Case",1,0,visible,MAVIC2用のケースと外観は同じ、中の仕切りとK3コードが違います。,,,,taxable,,backorder,,,0,0,,,,,1,,,13200,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+3955,simple,6958265168680,"Phantom 4 RTK (JP) Combo",1,0,visible,DJI保険対象。,,,,taxable,,backorder,,,0,0,,,,,0,,,660000,"Drones > Phantom",,,,,,,,,,,,0,,,,
+3956,simple,6958265178924,"D-RTK 2 High Precision GNSS Mobile Station (JP) Single Item",1,0,visible,D-RTK2の、三脚を除いた単体でのご提供。,,,,taxable,,backorder,,,0,0,,,,,0,,,375540,"Drones > Phantom parts",,,,,,,,,,,,0,,,,
+3957,simple,,"D-RTK 2 High Precision GNSS Mobile Station (JP)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,407440,"Drones > Phantom parts",,,,,,,,,,,,0,,,,
+3958,simple,,"Phantom 4 RTK + D-RTK 2 Mobile Station Combo (JP)",1,0,visible,P4RとD-RTK2とのセット。自社で2製品を別々に調達しても可。,,,,taxable,,backorder,,,0,0,,,,,0,,,896390,"Drones > Phantom",,,,,,,,,,,,0,,,,
+3959,simple,6958265185670,"Phantom 4 RTK (JP) SDK",1,0,visible,ディスプレイ無し送信機と、機体とのセット。DJI保険対象。,,,,taxable,,backorder,,,0,0,,,,,0,,,635250,"Drones > Phantom",,,,,,,,,,,,0,,,,
+3960,simple,6958265182099,"Phantom 4 RTK SDK Remote Controller (JP)",1,0,visible,ディスプレイ無し送信機の単品販売。,,,,taxable,,backorder,,,0,0,,,,,0,,,95150,"Drones > Phantom parts",,,,,,,,,,,,0,,,,
+3961,simple,,"DJI Flight Simulator Enterprise Version",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,178750,Services,,,,,,,,,,,,0,,,,
+3962,simple,,"DJI Flight Simulator Energy Version",1,0,visible,送電線点検メニューが追加されているカスタマイズ版のパッケージ。,,,,taxable,,backorder,,,0,0,,,,,1,,,1100000,Services,,,,,,,,,,,,0,,,,
+3963,simple,,"DJI GS Pro Enterprise V1",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,211200,Services,,,,,,,,,,,,0,,,,
+3964,simple,"6958265158452 ","FlightHub Basic one month",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,13090,Services,,,,,,,,,,,,0,,,,
+3965,simple,"6958265158469 ","FlightHub Basic one year",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,131450,Services,,,,,,,,,,,,0,,,,
+3966,simple,"6958265158476 ","FlightHub Advanced one month",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,39600,Services,,,,,,,,,,,,0,,,,
+3967,simple,"6958265158483 ","FlightHub Advanced one year",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,395230,Services,,,,,,,,,,,,0,,,,
+3968,simple,,"FlightHub Enterprise Private Edition 1 Year",1,0,visible,DJIによる事前審査あり,,,,taxable,,backorder,,,0,0,,,,,1,,,662200,Services,,,,,,,,,,,,0,,,,
+3969,simple,,"FlightHub Add-on Kit 1 Year",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,298100,Services,,,,,,,,,,,,0,,,,
+3970,simple,,"DJI Terra Advanced Overseas 1 year (1device)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,108240,Services,,,,,,,,,,,,0,,,,
+3971,simple,,"DJI Terra Pro Overseas 1 year  (1device)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,189200,Services,,,,,,,,,,,,0,,,,
+3972,simple,,"DJI Terra Electricity Overseas 1 year(1device)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,282370,Services,,,,,,,,,,,,0,,,,
+3973,simple,,"DJI Terra Pro Overseas Perpetual (1 device)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,484000,Services,,,,,,,,,,,,0,,,,
+3974,simple,,"DJI Terra Upgrade and Maintenance fee (Pro Overseas Permanent 1device)",1,0,visible,"DJI TERRA永久版の、年間更新費用",,,,taxable,,backorder,,,0,0,,,,,1,,,72600,Services,,,,,,,,,,,,0,,,,
+3975,simple,,"DJI Terra Pro Overseas 1 year+Phantom 4 RTK(JP) Combo",'-1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,935000,Services,,,,,,,,,,,,0,,,,
+3976,simple,,"DJI Terra Pro Overseas 1 year+Phantom 4 RTK+D-RTK 2 Mobile Station(JP) Combo",'-1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1287000,Services,,,,,,,,,,,,0,,,,
+3977,simple,,"PPK Service",1,0,visible,年間ライセンスとなります。,,,,taxable,,backorder,,,0,0,,,,,1,,,30800,Services,,,,,,,,,,,,0,,,,
+3978,simple,,"MATRICE 300 RTK （Enterprise Shield Basic）",1,0,visible,"「同梱物リスト」中のTB60バッテリーとBS60バッテリーステーション、電源ケーブルは別売りとなっており、別途発注する必要がございます。\nシールドベーシックについては、税込交換費用：1回目80,300円、2回目91,300円となります。",,,,taxable,,backorder,,,0,0,,,,,1,,,904860,"Drones > Matrice",,,,,,,,,,,,0,,,,
+3979,simple,,"Zenmuse H20 （Enterprise Shield Basic）",1,0,visible,"シールドベーシックのバンドル。税込交換費用：1回目31,900円、2回目36,300円",,,,taxable,,backorder,,,0,0,,,,,0,,,454960,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3980,simple,,"Zenmuse H20T （Enterprise Shield Basic）",1,0,visible,"シールドベーシックのバンドル。税込交換費用：1回目82,500円、2回目94,600円",,,,taxable,,backorder,,,0,0,,,,,0,,,1185800,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3981,simple,,"MATRICE 300 RTK （Enterprise Shield Plus）",1,0,visible,"「同梱物リスト」中のTB60バッテリーとBS60バッテリーステーション、電源ケーブルは別売りとなっており、別途発注する必要がございます。\nシールドプラスについては、税込保守限度額：564,500円となります。",,,,taxable,,1,,,0,0,,,,,1,,,960960,"Drones > Matrice",,,,,,,,,,,,0,,,,
+3982,simple,,"Zenmuse H20 （Enterprise Shield Plus)",1,0,visible,"シールドプラスのバンドル。税込保守限度額：403,260円。",,,,taxable,,backorder,,,0,0,,,,,0,,,473660,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3983,simple,,"Zenmuse H20T （Enterprise Shield Plus）",1,0,visible,"シールドプラスのバンドル。税込保守限度額：1,053,800円。",,,,taxable,,backorder,,,0,0,,,,,0,,,1244100,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3984,simple,"6958265107818 ","MATRICE 300 SERIES-PART08-TB60 Intelligent Flight Battery",1,0,visible,TB60バッテリー1個。発注単位は6個でお願いします。。,,,,taxable,,1,,,0,0,,,,,1,,,75460,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3985,simple,"6958265101878 ","MATRICE 300 SERIES-PART06-BS60 Intelligent Battery Station（Universal Edition）",1,0,visible,TB60バッテリー充電用に必要。機体とは別でご発注ください。,,,,taxable,,1,,,0,0,,,,,1,,,106920,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3986,simple,6958265199769,"MATRICE 300 SERIES-PART02-DJI Smart Controller Enterprise（NA&EU&JP&CHT）",1,0,visible,2名操縦用の、追加送信機。機体には送信機が1台セットされています。,,,,taxable,,1,,,0,0,,,,,0,,,119900,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3987,simple,"6958265125607 ","MATRICE 300 SERIES-PART10-Dual Gimbal Connector",1,0,visible,M300RTK用、デュアルジンバル。機体には同梱されていません。,,,,taxable,,1,,,0,0,,,,,1,,,23650,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3988,simple,"6958265125614 ","MATRICE 300 SERIES-PART11-Upward Gimbal Connector",1,0,visible,M300RTK用、上方ジンバル。機体には同梱されていません。,,,,taxable,,1,,,0,0,,,,,1,,,19800,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3989,simple,"6958265125645 ","MATRICE 300 SERIES-PART14-2110 Propeller",1,0,visible,M300RTK用、追加プロペラセット。2種類×1本。,,,,taxable,,backorder,,,0,0,,,,,1,,,11550,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3990,simple,"6958265199783 ","MATRICE 300 SERIES-PART09-DJI Smart Controller Enterprise Monitor Mounting Kit",1,0,visible,M300RTK用送信機にタブレットを装着させるためのアクセサリー。,,,,taxable,,backorder,,,0,0,,,,,1,,,11550,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3991,simple,"6958265185830 ","D-RTK High Precision GNSS Mobile Station for Matrice Series（JP）",1,0,visible,"M300RTK、M210RTK V2,P4R,P4Mに対応しております。三脚は付属しておりませんので、ご注意ください。",,,,taxable,,backorder,,,0,0,,,,,1,,,341000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3992,simple,,"MATRICE 200 V2（JP）COMBO",1,0,visible,DJI保険対象。TB55のみ対応（2個同梱）。M300RTKリリース時より、DPとRRPを値下げ。,,,,taxable,,backorder,,,0,0,,,,,1,,,709170,"Drones > Matrice",,,,,,,,,,,,0,,,,
+3993,simple,,"MATRICE 210 V2（JP）COMBO",1,0,visible,DJI保険対象、TB55のみ対応（2個同梱）。上方ジンバルは別売り。,,,,taxable,,backorder,,,0,0,,,,,1,,,1207360,"Drones > Matrice",,,,,,,,,,,,0,,,,
+3994,simple,,"MATRICE 210 RTK V2（JP）COMBO+D-RTK V2（JP）",1,0,visible,DJI保険対象、TB55のみ対応（2個同梱）。上方ジンバルは別売り。,,,,taxable,,backorder,,,0,0,,,,,1,,,1724800,"Drones > Matrice",,,,,,,,,,,,0,,,,
+3995,simple,"6958265186875 ","MATRICE 200 SERIES V2 GPS KIT",1,0,visible,"M210 V2の上方ジンバル装着時に必須。RTK V2では不要。",,,,taxable,,backorder,,,0,0,,,,,1,,,25850,"Drones > Matrice",,,,,,,,,,,,0,,,,
+3996,simple,6958265186882,"MATRICE 210 V2 SINGLE UPWARD GIMBAL CONNECTOR",1,0,visible,"M210 V2およびM210RTK V2で使える上方ジンバル。今回は別売り。",,,,taxable,,backorder,,,0,0,,,,,0,,,66000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3997,simple,"6958265178573 ","D-RTK 2 BASE STATION TRIPOD",1,0,visible,"M300RTK,M210RTK V2では別売りで必須。D-RTK2(M210RTK V2,M300RTKおよびP4R用)を支える三脚。",,,,taxable,,backorder,,,0,0,,,,,1,,,30580,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3998,simple,"6958265191060 ","MATRICE 200 SERIES V2-PART02-Cendence S Remote Controller",1,0,visible,送信機単体。,,,,taxable,,backorder,,,0,0,,,,,1,,,190300,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+3999,simple,"6958265183683 ","MANIFOLD 2-G 128G(JP)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,148500,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4000,simple,"6958265187827 ","MANIFOLD 2-C 256G(JP)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,192500,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4001,simple,"6958265183416 ","MANIFOLD 2 Mini Network Switch",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,9350,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4002,simple,"6958265190346 ","MATRICE 200 SERIES V2 MANIFOLD 2 Mounting Bracket",1,0,visible,Manifold2を装着するためのマウント。,,,,taxable,,backorder,,,0,0,,,,,1,,,13750,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4003,simple,6958265150470,"MATRICE 200-PART01-TB50-M200 Intelligent Flight Battery（*2）",1,0,visible,"V2に使えません。梱包数は2本となりますが、金額は単品(1本)の価格となっております。\n※システム上、2の倍数でしか発注できないようになっております。",,,,taxable,,backorder,,,0,0,,,,,0,,,21010,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4004,simple,6958265150456,"MATRICE 200-PART02-TB50-M200 Intelligent Flight Battery（*8）",1,0,visible,V2に使えません。梱包数は8本となりますが、金額は単品(1本)の価格となっております。\n※システム上、8の倍数でしか発注できないようになっております。,,,,taxable,,backorder,,,0,0,,,,,1,,,21010,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4005,simple,6958265150487,"MATRICE 200-PART04-1760S Quick Release Propeller",1,0,visible,V2に適合。,,,,taxable,,backorder,,,0,0,,,,,1,,,2530,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4006,simple,6958265150517,"MATRICE 200-PART05-Propeller Mounting Plate",1,0,visible,V2に適合。,,,,taxable,,backorder,,,0,0,,,,,1,,,1540,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4007,simple,6958265150524,"MATRICE 200-PART08-Zenmuse XT Gimbal Adapter",1,0,visible,V2に適合。,,,,taxable,,backorder,,,0,0,,,,,1,,,15730,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4008,simple,6958265150463,"MATRICE 200-PART03-TB55 Intelligent Flight Battery(*4)",1,0,visible,V2に適合。梱包数は4本となりますが、金額は単品(1本)の価格となっております。\n※システム上、4の倍数でしか発注できないようになっております。,,,,taxable,,backorder,,,0,0,,,,,1,,,48730,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4009,simple,6958265150500,"MATRICE 200-PART06-Dual Downward Gimbal Connector",1,0,visible,V2に使えません。,,,,taxable,,backorder,,,0,0,,,,,1,,,59290,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4010,simple,6958265150494,"MATRICE 200-PART07-Single Upward Gimbal Connector",1,0,visible,V2に使えません。,,,,taxable,,backorder,,,0,0,,,,,1,,,47410,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4011,simple,6958265150449,"MATRICE 200-PART09-MATRICE 200 SERIES GPS Kit",1,0,visible,V2に使えません。,,,,taxable,,backorder,,,0,0,,,,,1,,,35530,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4012,simple,6958265152481,"MATRICE 200-PART10-M200 Series Carrying Case",1,0,visible,V2に使えません。,,,,taxable,,backorder,,,0,0,,,,,1,,,71170,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4013,simple,"6958265152498 ","MATRICE 200-PART11-TB55 Intelligent Flight Battery(*2)",1,0,visible,V2に適合。梱包数は2本となりますが、金額は単品(1本)の価格となっております。\n※システム上、2の倍数でしか発注できないようになっております。,,,,taxable,,backorder,,,0,0,,,,,1,,,48730,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4014,simple,6958265154553,"MATRICE 200-PART13-M210 Carrying Case",1,0,visible,V2に使えません。,,,,taxable,,backorder,,,0,0,,,,,1,,,71170,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4015,simple,6958265156700,"MATRICE 200-PART14-M200 Series Quick-Release Landing Gear Set",1,0,visible,V2に使えません。,,,,taxable,,backorder,,,0,0,,,,,1,,,12210,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4016,simple,6958265156731,"MATRICE 200-PART15-M200/M210 Landing Gears Mounting Bracket Set",1,0,visible,V2に使えません。,,,,taxable,,backorder,,,0,0,,,,,1,,,7040,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4017,simple,6958265156717,"MATRICE 200-PART16-M200 Series Expansion Antenna Mounting Bracket Set",1,0,visible,V2に使えません。,,,,taxable,,backorder,,,0,0,,,,,1,,,14190,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4018,simple,6958265156724,"MATRICE 200-PART17-M210 Weatherproofing Top Shell Plug",1,0,visible,V2に適合。,,,,taxable,,backorder,,,0,0,,,,,1,,,1430,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4019,simple,6958265156748,"MATRICE 200-PART19-M200 Series Weatherproofing Battery Contact Cover",1,0,visible,V2に適合。,,,,taxable,,backorder,,,0,0,,,,,1,,,1210,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4022,simple,6958265139222,"ZENMUSE Z30",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,764500,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4024,simple,6958265132124,"M600/M600PRO-PART14-Z30 Gimbal Mounting Kit",1,0,visible,,,,,taxable,,1,1,1,0,0,,,,,0,,,26290,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4050,simple,"6958265155147 ","ZENMUSE XT2 ZXT2A25FR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1595000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4051,simple,"6958265155154 ","ZENMUSE XT2 ZXT2B13FR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,924000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4052,simple,"6958265155161 ","ZENMUSE XT2 ZXT2B19FR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,924000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4053,simple,"6958265155178 ","ZENMUSE XT2 ZXT2A13FR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1430000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4054,simple,"6958265155185 ","ZENMUSE XT2 ZXT2A19FR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1430000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4055,simple,"6958265155192 ","ZENMUSE XT2 ZXT2B09FR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,924000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4056,simple,6958265169373,"ZENMUSE XT2 ZXT2A25SR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1397000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4057,simple,"6958265169380 ","ZENMUSE XT2 ZXT2A19SR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1237500,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4058,simple,"6958265169397 ","ZENMUSE XT2 ZXT2A13SR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1237500,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4059,simple,"6958265169403 ","ZENMUSE XT2 ZXT2B13SR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,770000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4060,simple,"6958265170331 ","ZENMUSE XT2 ZXT2B09SR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,770000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4061,simple,"6958265170348 ","ZENMUSE XT2 ZXT2B19SR",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,770000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4062,simple,,"MATRICE 300 RTK （Enterprise Shield Basic）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,904860,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4063,simple,,"Zenmuse H20 （Enterprise Shield Basic）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,454960,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4064,simple,,"Zenmuse H20T （Enterprise Shield Basic）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1185800,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4065,simple,,"MATRICE 200 V2 Combo （Enterprise Shield Basic）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,799370,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4066,simple,,"MATRICE 210 V2 Combo （Enterprise Shield Basic）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1329900,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4067,simple,,"MATRICE 210 RTK V2 + D-RTK V2 Combo （Enterprise Shield Basic）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1915100,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4068,simple,,"Phantom 4 RTK （Enterprise Shield Basic） JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,728200,"Drones > Phantom",,,,,,,,,,,,0,,,,
+4069,simple,,"Phantom 4 RTK SDK（Enterprise Shield Basic）  JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,702570,"Drones > Phantom",,,,,,,,,,,,0,,,,
+4070,simple,,"Mavic 2 Enterprise （Enterprise Shield Basic）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,341000,"Drones > Mavic",,,,,,,,,,,,0,,,,
+4071,simple,,"Mavic 2 Enterprise DUAL （Enterprise Shield Basic）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,480700,"Drones > Mavic",,,,,,,,,,,,0,,,,
+4072,simple,,"Mavic 2 Enterprise（ZOOM）with Smart Controller（Enterprise Shield Basic）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,404800,"Drones > Mavic",,,,,,,,,,,,0,,,,
+4073,simple,,"Mavic 2 Enterprise（DUAL）with Smart Controller（Enterprise Shield Basic）JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,536800,"Drones > Mavic",,,,,,,,,,,,0,,,,
+4079,simple,6958265169304,"M600/M600PRO-PART39-Arm Sleeve",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,2090,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4080,simple,6958265169311,"M600/M600PRO-PART40-Universal Upper Expansl on Bay",1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,32670,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4081,simple,6958265142895,"Matrice 600/Pro D-RTK Mounting Bracket",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,14410,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4082,simple,"6958265142192 ","Matrice 600 PRO-Part23-Collapsible GPS Mount",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,5280,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4083,simple,6958265142284,"Matrice 600 PRO-Part26-Foldable Frame Arm Mount Kit",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,5280,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4084,simple,6958265142314,"MATRICE 600 PRO-Part30 ランディングギア用レッグ",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,6490,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4085,simple,6958265142321,"MATRICE 600 PRO-Part31 ランディングギア用スキッド",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,11220,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4086,simple,6958265142338,"Matrice 600 PRO-Part32-Landing Gear Spring Kit",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,6490,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4087,simple,6958265142208,"MATRICE 600 PRO-Part33-Aircraft Arm Kit（M1）",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,36960,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4088,simple,6958265142215,"MATRICE 600 PRO-Part34-Aircraft Arm Kit（M2）",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,36960,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4089,simple,6958265142222,"MATRICE 600 PRO-Part35-Aircraft Arm Kit（M3）",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,36960,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4090,simple,6958265142239,"MATRICE 600 PRO-Part36-Aircraft Arm Kit（M4）",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,36960,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4091,simple,6958265142246,"MATRICE 600 PRO-Part37-Aircraft Arm Kit（M5）",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,36960,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4092,simple,6958265142253,"MATRICE 600 PRO-Part38-Aircraft Arm Kit（M6）",1,0,visible,,,,,taxable,,0,,,0,0,,,,,1,,,36960,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4123,simple,6958265132186,"MATRICE 600 Pro",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,604890,"Drones > Matrice",,,,,,,,,,,,0,,,,
+4124,simple,6958265114380,"MATRICE 600 Part01-ZENMUSE X3/X5 Gi",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,26400,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4125,simple,6958265114397,"MATRICE 600 Part02-Z15 ジンバルコネクター",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,9900,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4126,simple,6958265114403,"Matrice 600-Part03-Power Source Hub Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,5280,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4127,simple,6958265114410,"MATRICE 600-Part04-上部拡張ベイキット",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,7260,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4128,simple,6958265114434,"MATRICE 600-Part07 機体アーム角度キャリブレーター",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1980,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4129,simple,6958265114694,"Matrice 600 シリーズ インテリジェントフライトバッテリー(*4)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,28930,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4130,simple,6958265114755,"MATRICE 600-Part13Matrice 600 シリーズ - 送信機",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,97680,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4131,simple,6958265141973,"Matrice 600シリーズ - 送信機チャンネル拡張キット",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,52690,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4132,simple,6958265114458,"Matrice 600-Part21-Center Frame Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,64680,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4133,simple,6958265114465,"MATRICE 600-Part22 回転可能なクランプキット(レッド)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1650,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4134,simple,6958265114472,"Matrice 600-Part23-GPS Foldable Mount",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1650,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4135,simple,6958265114489,"MATRICE 600-Part24 機体アームキット（CCW、赤）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,46090,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4136,simple,6958265114496,"MATRICE 600-Part25 機体アームキット（CW、赤）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,46090,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4137,simple,6958265114502,"MATRICE 600-Part26 機体アームキット（CCW、黒）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,46090,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4138,simple,6958265114519,"MATRICE 600-Part27 機体アームキット（CW、黒）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,46090,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4139,simple,6958265114526,"MATRICE 600-Part28 2170R 折りたたみ式プロペラキット (CW/CCW)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,8030,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4140,simple,6958265114533,"MATRICE 600-Part30 モーターマウント(赤）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1650,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4141,simple,6958265114540,"Matrice 600-Part31-Black Motor Mount",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1650,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4142,simple,6958265114557,"Matrice 600-Part32-M600 ESC",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,6380,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4143,simple,6958265114564,"MATRICE 600-Part34 機体アームカーボンチューブ",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,3300,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4144,simple,6958265114571,"Matrice 600-Part35-Landing Gear Mounting Base Kit（Left）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,22330,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4145,simple,6958265114588,"Matrice 600-Part36-Landing Gear Mounting Base Kit（Right）",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,20570,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4146,simple,6958265114595,"Matrice 600-Part37-Aircraft Arm Oblique Carbon Tube",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,5280,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4147,simple,6958265114601,"Matrice 600-Part38-Antenna Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1430,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4148,simple,6958265114618,"MATRICE 600-Part39 ランディングギア用スキッドキット",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,9130,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4149,simple,6958265114625,"Matrice 600-Part40-Extension Connector Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,17930,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4150,simple,6958265114632,"MATRICE 600-Part41 ランディングギア用ガスケット",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1430,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4151,simple,6958265114649,"Matrice 600-Part42-Aircraft Arm Collapsible Mount Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,3300,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4152,simple,6958265114656,"MATRICE 600-Part43 センターフレームの上部用プレート",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,1980,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4153,simple,6958265114663,"MATRICE 600-Part44 センターフレームの下部用プレート",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,440,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4154,simple,6958265114670,"MATRICE 600-Part45 ケーブルキット",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,4620,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4155,simple,6958265114809,"Matrice 600 シリーズ インテリジェントフライトバッテリー(*2)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,26290,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4156,simple,6958265114700,"MATRICE 600-Part49 配電ボード",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,14410,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4157,simple,6958265114717,"Matrice 600-Part50-A3 Mounting Frame Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,5390,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4158,simple,6958265114724,"MATRICE 600-Part51 リアライトボード用キット",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,6820,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4159,simple,6958265132001,"Matrice 600-Part52-Gimbal Mount Rack",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,5940,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4160,simple,6958265132018,"Matrice 600-Part53-Cable Kit",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3960,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4161,simple,6958265132025,"Matrice 600-Part54-HDMI Cable",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,3080,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4162,simple,6958265132094,"MATRICE 600-Part57エアフレームアーム用留め具",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,5940,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4163,simple,"6958265141744 ","MATRICE 600-Part58 2195 折りたたみ式プロペラ (高地用)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,11220,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4164,simple,"6958265132100 ","Matrice 600 シリーズ　バッテリートラベルケース",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,64900,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4165,simple,"6958265132056 ","Matrice parallel multi-charger",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,36190,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4166,simple,"6958265114687 ","MATRICE 600-インテリジェントフライトバッテリー TB47S　コンボプライス*6",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,143660,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4167,simple,6958265185519,"Enterprise Shield Basic（M200 V2）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,Services,,,,,,,,,,,,0,,,,
+4168,simple,6958265185632,"Enterprise Shield Basic（M210 V2）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,Services,,,,,,,,,,,,0,,,,
+4169,simple,6958265185571,"Enterprise Shield Basic（M210 RTK V2）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,Services,,,,,,,,,,,,0,,,,
+4170,simple,6958265181900,"Enterprise Shield Basic（Phantom 4 RTK）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,Services,,,,,,,,,,,,0,,,,
+4171,simple,6958265182013,"Enterprise Shield Basic（Mavic 2 Enterprise （Zoom））JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,Services,,,,,,,,,,,,0,,,,
+4172,simple,"6958265187193 ","Enterprise Shield Basic（Mavic 2 Enterprise （DUAL））JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,Services,,,,,,,,,,,,0,,,,
+4173,simple,6958265187049,"Enterprise Shield Basic（M600 Pro）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,Services,,,,,,,,,,,,0,,,,
+4174,simple,6958265187056,"Enterprise Shield Basic（Zenmuse Z30）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,Services,,,,,,,,,,,,0,,,,
+4175,simple,6958265187063,"Enterprise Shield Basic（Zenmuse X5S）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,,Services,,,,,,,,,,,,0,,,,
+4177,simple,6958265187162,"Enterprise Shield Plus（M210 V2）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,177100,Services,,,,,,,,,,,,0,,,,
+4178,simple,6958265187186,"Enterprise Shield Plus（M210 RTK V2）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,271700,Services,,,,,,,,,,,,0,,,,
+4180,simple,6958265188718,"Enterprise Shield Plus（M210）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,177100,Services,,,,,,,,,,,,0,,,,
+4181,simple,6958265188725,"Enterprise Shield Plus（M210 RTK）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,271700,Services,,,,,,,,,,,,0,,,,
+4182,simple,6958265187070,"Enterprise Shield Plus（Zenmuse Z30）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,103400,Services,,,,,,,,,,,,0,,,,
+4183,simple,6958265187087,"Enterprise Shield Plus（Zenmuse X5S）JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,1,,,68200,Services,,,,,,,,,,,,0,,,,
+4191,simple,6958265192609,"Enterprise Shield Plus（XT2 AFR（25））JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,469700,"Services, Zenmuses > Zenmuse parts",,,,,,,,,,,,0,,,,
+4192,simple,6958265192616,"Enterprise Shield Plus（XT2 AFR（13/19））JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,425700,"Services, Zenmuses > Zenmuse parts",,,,,,,,,,,,0,,,,
+4869,variable,,"DJI Pocket 2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,,"Osmos > Osmo",,,"https://b2b.shinkudrone.com/wp-content/uploads/2020/10/DJI-Pocket-2-with-tripod.png, https://b2b.shinkudrone.com/wp-content/uploads/2020/10/DJI-Pocket-2_V2-scaled.jpg, https://b2b.shinkudrone.com/wp-content/uploads/2020/10/DJI-Pocket-2-Creator-Combo_V2-scaled.jpg",,,,,,,,,0,Package,"Combo, Original",1,1
+4872,variable,,"DJI RS 2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,,"Ronins > Ronin",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/10/HG702_store_20200821_0020073-scaled.jpg,,,,,,,,,0,Package,"Combo, Original",1,1
+4875,variation,,"DJI Pocket 2 - Combo",1,0,visible,,新製品の在庫に限りがありますので、ご購入はお一人様ひとつまでとさせていただきます。1ユニットご購入後の追加注文については、キャンセルさせていただきます。,,,taxable,parent,1,,,0,0,,,,,0,,,64900,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/10/DJI-Pocket-2-Creator-Combo_V2-scaled.jpg,,,id:4869,,,,,,1,Package,Combo,,1
+4876,variation,,"DJI Pocket 2 - Original",1,0,visible,,新製品の在庫に限りがありますので、ご購入はお一人様ひとつまでとさせていただきます。1ユニットご購入後の追加注文については、キャンセルさせていただきます。,,,taxable,parent,1,,,0,0,,,,,0,,,49500,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/10/DJI-Pocket-2_V2-scaled.jpg,,,id:4869,,,,,,2,Package,Original,,1
+4879,variation,,"DJI RS 2 - Combo",1,0,visible,,新製品の在庫に限りがありますので、ご購入はお一人様ひとつまでとさせていただきます。1ユニットご購入後の追加注文については、キャンセルさせていただきます。,,,taxable,parent,1,,,0,0,,,,,0,,,105600,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/10/套装版本-scaled.jpg,,,id:4872,,,,,,1,Package,Combo,,1
+4880,variation,,"DJI RS 2 - Original",1,0,visible,,新製品の在庫に限りがありますので、ご購入はお一人様ひとつまでとさせていただきます。1ユニットご購入後の追加注文については、キャンセルさせていただきます。,,,taxable,parent,1,,,0,0,,,,,0,,,86900,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/10/标准版本-scaled.jpg,,,id:4872,,,,,,2,Package,Original,,1
+4883,variable,,"DJI RSC 2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,,"Ronins > Ronin",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/10/DJI-RSC-2-3-scaled.jpg,,,,,,,,,0,Package,"Combo, Original",1,1
+4884,variation,,"DJI RSC 2 - Combo",1,0,visible,,新製品の在庫に限りがありますので、ご購入はお一人様ひとつまでとさせていただきます。1ユニットご購入後の追加注文については、キャンセルさせていただきます。,,,taxable,parent,1,,,0,0,,,,,0,,,73700,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/10/套装版本-DJI-RSC-2-Pro-Combo-scaled.jpg,,,id:4883,,,,,,1,Package,Combo,,1
+4885,variation,,"DJI RSC 2 - Original",1,0,visible,,新製品の在庫に限りがありますので、ご購入はお一人様ひとつまでとさせていただきます。1ユニットご購入後の追加注文については、キャンセルさせていただきます。,,,taxable,parent,1,,,0,0,,,,,0,,,53900,,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/10/基础版本-scaled.jpg,,,id:4883,,,,,,2,Package,Original,,1
+4892,simple,6958265131721,"MATRICE 300 SERIES-PART13-OSDK Expansion Module",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,25300,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4894,simple,6958265125652,"MATRICE 300 SERIES-PART15-2195 High Altitude Low Noise Propeller",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,11000,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4896,simple,6958265132285,"MATRICE 300 SERIES-PART17-4G Dongle ZTE MF833V",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,8800,"Drones > Matrice parts",,,,,,,,,,,,0,,,,
+4937,simple,6941565905123,"DJI Mini 2 (JP)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,59400,"Drones, Drones > Mavic",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/11/DJI-Mini-2_JP-Version-scaled.jpg,,,,,,,,,0,,,,
+4940,simple,6941565905161,"DJI Mini 2 Fly More Combo (JP)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,79200,"Drones, Drones > Mavic",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/11/DJI-Mini-2-Fly-More-Combo_JP-Version-scaled.jpg,,,,,,,,,0,,,,
+4944,simple,6941565906502,"DJI Mini 2 Intelligent Flight Battery (1065 mAh)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,5280,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4946,simple,6941565906519,"DJI Mini 2 Two-Way Charging Hub",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,4290,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4948,simple,6941565906526,"DJI Mini 2 Propellers (Pair)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1210,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4950,simple,6941565901330,"DJI Mini Bag + (Black)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3520,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4952,simple,6941565901347,"DJI Mini Bag + (Black & Yellow)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3520,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4954,simple,6941565901354,"DJI Mini Bag + (Blue & Yellow)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3520,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4956,simple,,"Mavic Mini Part 9 360° Propeller Guard",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1870,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4958,simple,6958265119491,"Mavic Air 2 Remote Controller Monitor Hood",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,2750,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4960,simple,6958265119484,"Mavic Air 2 Remote Controller Tablet Holder",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,4840,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4962,simple,,"Mavic Air 2 RC Cable (Lighting connector)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1320,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4964,simple,,"Mavic Air 2 RC Cable (Standard Micro-USB connector)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1320,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4966,simple,,"Mavic Air 2 RC Cable (Standard Micro-USB connector)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1320,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4968,simple,,"Mavic Air 2 RC Cable (USB Type-C connector)",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1320,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4970,simple,,"Mavic Air 2 Control Stick",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,1320,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4972,simple,6941565904744,"Card DJI Care Refresh 1-Year Plan (DJI Mini 2) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,6160,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4974,simple,6941565905543,"Card DJI Care Refresh 2-Year Plan (DJI Mini 2) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,9680,"Drones > Mavic parts",,,,,,,,,,,,0,,,,
+4984,simple,6941565903150,"DJI Pocket 2 Creator Combo",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,64900,"Osmos > Osmo, Osmos",,,,,,,,,,,,0,,,,
+4986,simple,6941565903167,"DJI Pocket 2 Do-It-All Handle",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,11000,"Osmos > Osmo parts, Osmos",,,,,,,,,,,,0,,,,
+4988,simple,6941565903174,"DJI Wireless Microphone Transmitter",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,11000,"Osmos > Osmo parts, Osmos",,,,,,,,,,,,0,,,,
+4990,simple,6941565903181,"DJI Pocket 2 Mini Control Stick",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3080,"Osmos > Osmo parts, Osmos",,,,,,,,,,,,0,,,,
+4992,simple,6941565903204,"DJI Pocket 2 Waterproof Case",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,6050,"Osmos > Osmo parts, Osmos",,,,,,,,,,,,0,,,,
+4994,simple,6941565903211,"DJI Pocket 2 Wide-Angle Lens",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,5500,"Osmos > Osmo parts, Osmos",,,,,,,,,,,,0,,,,
+4996,simple,6941565903228,"DJI Pocket 2 Micro Tripod",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,3080,"Osmos > Osmo parts, Osmos",,,,,,,,,,,,0,,,,
+4998,simple,6941565903235,"DJI Pocket 2 Phone Clip",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,4290,"Osmos > Osmo parts, Osmos",,,,,,,,,,,,0,,,,
+5000,simple,6941565903242,"DJI Pocket 2 Charging Case",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,12320,"Osmos > Osmo parts, Osmos",,,,,,,,,,,,0,,,,
+5002,simple,6941565904287,"Card DJI Care Refresh 1-Year Plan (DJI Pocket 2) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,3960,"Osmos > Osmo parts, Services",,,,,,,,,,,,0,,,,
+5004,simple,6941565904416,"Card DJI Care Refresh 2-Year Plan (DJI Pocket 2) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,6600,"Osmos > Osmo parts, Services",,,,,,,,,,,,0,,,,
+5006,simple,6941565904492,"DJI Care Refresh 1-Year Plan (DJI Pocket 2) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,3960,"Osmos > Osmo parts, Services",,,,,,,,,,,,0,,,,
+5008,simple,6941565905918,"DJI Care Refresh 2-Year Plan (DJI Pocket 2) JP",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,6600,"Osmos > Osmo parts, Services",,,,,,,,,,,,0,,,,
+5011,simple,6941565901552,"DJI RS 2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,86900,"Ronins > Ronin, Ronins",,,,,,,,,,,,0,,,,
+5013,simple,6941565901569,"DJI RS 2 Pro Combo",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,105600,"Ronins > Ronin, Ronins",,,,,,,,,,,,0,,,,
+5015,simple,6941565903020,"DJI RSC 2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,53900,"Ronins > Ronin, Ronins",,,,,,,,,,,,0,,,,
+5017,simple,6941565903037,"DJI RSC 2 Pro Combo",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,73700,"Ronins > Ronin, Ronins",,,,,,,,,,,,0,,,,
+5019,simple,6941565900630,"DJI Care Refresh (DJI RS 2) JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,8800,"Ronins > Ronin parts, Services",,,,,,,,,,,,0,,,,
+5021,simple,6941565900449,"Card DJI Care Refresh (DJI RS 2) JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,8800,"Ronins > Ronin parts, Services",,,,,,,,,,,,0,,,,
+5023,simple,6941565900371,"DJI Care Refresh (DJI RSC 2) JP",1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,4400,"Ronins > Ronin parts, Services",,,,,,,,,,,,0,,,,
+5025,simple,6941565900135,"Card DJI Care Refresh (DJI RSC 2) JP",'-1,0,visible,,,,,taxable,,backorder,,,0,0,,,,,0,,,4400,"Ronins > Ronin parts, Services",,,,,,,,,,,,0,,,,
+5332,simple,,"Mavic Air 2 プロペラガード",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,1980,"Drones > Mavic parts",,,https://b2b.shinkudrone.com/wp-content/uploads/2020/12/air2guard.jpg,,,,,,,,,0,,,,
+5335,simple,,"DJI Mavic 2用 拡張ランディングギア【PGYTECH",1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,1100,PGYTECH,,,https://b2b.shinkudrone.com/wp-content/uploads/2020/12/landing-gear.jpg,,,,,,,,,0,,,,
