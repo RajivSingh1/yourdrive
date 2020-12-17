@@ -45,6 +45,7 @@ public class SignupController {
             if(signupError == null){
 
                 redirectAttributes.addFlashAttribute("signupSuccess", true);
+                redirectAttributes.addFlashAttribute("successMessage", "Account have been created. Please login to continue");
                 return "redirect:/login";
             }
         }

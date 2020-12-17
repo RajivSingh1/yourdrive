@@ -6,6 +6,8 @@
 
         <link rel="stylesheet" type="text/css" media="all" th:href="@{/css/bootstrap.min.css}">
 
+    <link rel="stylesheet" type="text/css" media="all" th:href="@{/css/style.css}">
+
         <title>Home</title>
     </head>
     <body class="p-3 mb-2 bg-light text-black">
@@ -15,13 +17,16 @@
                     <button name="logoutBtn" type="submit" class="btn btn-secondary float-right">Logout</button>
                 </form>
             </div>
+            <div id="notifications">
 
+            
             <div th:if="${errorMessage}" class="alert alert-danger ">
 
                 <span th:text="${errorMessage}">Exist</span>
             </div>
             <div th:if="${successMessage}" class="alert alert-success ">
                 <span th:text="${successMessage}">File added.</span>
+            </div>
             </div>
             <div id="contentDiv" style="clear: right;">
                 <nav style="clear: right;">
