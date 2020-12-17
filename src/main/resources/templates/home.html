@@ -42,10 +42,11 @@
                                         <label for="fileUpload">Upload a New File:</label>
                                     </div>
                                     <div class="col-sm-6">
-                                        <input type="file" class="form-control-file" id="fileUpload" name="fileUpload">
+                                        <input type="file" class="form-control-file" id="fileUpload" name="fileUpload" onchange="filevalidation()">
+                                        <p id="size"></p>
                                     </div>
                                     <div class="col-sm-4">
-                                        <button type="submit" class="btn btn-dark">Upload</button>
+                                        <button id="uploadBtn" type="submit" class="btn btn-dark">Upload</button>
                                     </div>
                                 </div>
                             </div>
@@ -172,7 +173,7 @@
                                             <input type="hidden" name="credentialId" id="credential-id">
                                             <div class="form-group">
                                                 <label for="note-title" class="col-form-label">URL</label>
-                                                <input type="text" name= "url" class="form-control" id="credential-url" maxlength="100" required>
+                                                <input type="url" name= "url" class="form-control" id="credential-url" maxlength="100" required>
                                             </div>
                                             <div class="form-group">
                                                 <label for="note-title" class="col-form-label">Username</label>
@@ -203,6 +204,27 @@
 
         <!--For opening the note modal-->
         <script type="text/javascript">
+        filevalidation = () => {
+        const fi = document.getElementById('fileUpload');
+        document.getElementById("uploadBtn").disabled = true;
+        // Check if any file is selected.
+        if (fi.files.length > 0) {
+            for (const i = 0; i <= fi.files.length - 1; i++) {
+
+                const fsize = fi.files.item(i).size;
+                const file = Math.round((fsize / 1024));
+                // The size of the file.
+                if (file >= 10000) {
+                    alert(
+                      "File too Big, please select a file less than equals to 10MB");
+
+                } else {
+                document.getElementById("uploadBtn").disabled = false;
+                    document.getElementById('size').innerHTML = 'The file size <b> looks perfect.';
+                }
+            }
+        }
+    }
             // For opening the note modal
             function showNoteModal(note) {
                     $('#note-id').val(note && note.noteId ? note.noteId : 0);

@@ -42,14 +42,16 @@ public class FileController {
     public String addFile(@RequestParam(value = AppConstant.FILE_PARAM)MultipartFile file,
                                 RedirectAttributes redirectAttributes) throws IOException {
 
-
-
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         String currentPrincipalName = authentication.getName();
 
         User user = userService.getUser(currentPrincipalName);
        ;
             if(!file.isEmpty() &&  user != null){
+                if(file.getSize() > 10000000){
+                    redirectAttributes.addFlashAttribute("errorMessage","The file exceeds allowed size. Please try again");
+                    return "redirect:/home";
+                }
             if(fileService.findFile(file.getOriginalFilename()) != null){
                 redirectAttributes.addFlashAttribute("errorMessage","The file exist. Please check the name");
                 return "redirect:/home";
