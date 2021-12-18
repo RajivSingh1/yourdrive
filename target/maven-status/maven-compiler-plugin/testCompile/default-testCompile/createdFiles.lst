@@ -1,0 +1,6 @@
+com\example\demo\HomePage.class
+com\example\demo\LoginPage.class
+com\example\demo\SignupPage.class
+com\example\demo\ApplicationTests.class
+com\example\demo\CRUDNoteTesting.class
+com\example\demo\CredentialCRUDTest.class
